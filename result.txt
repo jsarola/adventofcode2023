@@ -1,0 +1,5010 @@
+Ok("1abc2")
+["1", "2"]
+Ok("pqr3stu8vwx")
+["3", "8"]
+Ok("a1b2c3d4e5f")
+["1", "2", "3", "4", "5"]
+Ok("treb7uchet")
+["7"]
+142
+Ok("six1mpffbnbnnlxthree")
+["six", "1", "three"]
+"6"
+"3"
+Ok(63)
+Ok("4eight3one92")
+["4", "eight", "3", "one", "9", "2"]
+"4"
+"2"
+Ok(42)
+Ok("9nine2xnhvjtjlzj48")
+["9", "nine", "2", "4", "8"]
+"9"
+"8"
+Ok(98)
+Ok("jxrbrt4jmnmlonesznvbjrsn")
+["4", "one"]
+"4"
+"1"
+Ok(41)
+Ok("nsvkljgpfn77pvfour5j")
+["7", "7", "four", "5"]
+"7"
+"5"
+Ok(75)
+Ok("fourlkgmnnzncht75")
+["four", "7", "5"]
+"4"
+"5"
+Ok(45)
+Ok("shqmhnlbjjvskone6two78")
+["one", "6", "two", "7", "8"]
+"1"
+"8"
+Ok(18)
+Ok("qjgcxccgthree85five")
+["three", "8", "5", "five"]
+"3"
+"5"
+Ok(35)
+Ok("eight7sbdbgqgcfive3two")
+["eight", "7", "five", "3", "two"]
+"8"
+"2"
+Ok(82)
+Ok("eight878nckqdt3pgzc")
+["eight", "8", "7", "8", "3"]
+"8"
+"3"
+Ok(83)
+Ok("pkdrhksqdhrvhg5")
+["5"]
+"5"
+"5"
+Ok(55)
+Ok("nine7four7one2")
+["nine", "7", "four", "7", "one", "2"]
+"9"
+"2"
+Ok(92)
+Ok("9fives")
+["9", "five"]
+"9"
+"5"
+Ok(95)
+Ok("fplzzhthreethree7sqnsmrljgsmnpktfkhzdpqfkone")
+["three", "three", "7", "one"]
+"3"
+"1"
+Ok(31)
+Ok("hqrcls33sevensevennine")
+["3", "3", "seven", "seven", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("four4m")
+["four", "4"]
+"4"
+"4"
+Ok(44)
+Ok("seven331fivekfrqbd")
+["seven", "3", "3", "1", "five"]
+"7"
+"5"
+Ok(75)
+Ok("ninechvkpthreefive8tlmfclr")
+["nine", "three", "five", "8"]
+"9"
+"8"
+Ok(98)
+Ok("8954bxsqntndjmonenx5")
+["8", "9", "5", "4", "one", "5"]
+"8"
+"5"
+Ok(85)
+Ok("nine7km")
+["nine", "7"]
+"9"
+"7"
+Ok(97)
+Ok("seven588sevenxffivethreehkrczrlm")
+["seven", "5", "8", "8", "seven", "five", "three"]
+"7"
+"3"
+Ok(73)
+Ok("3cmjzjmhone")
+["3", "one"]
+"3"
+"1"
+Ok(31)
+Ok("jfgr2fourtflvttr")
+["2", "four"]
+"2"
+"4"
+Ok(24)
+Ok("qpplcgvklzztqjkbbnfiveftcqmlrqnd824")
+["five", "8", "2", "4"]
+"5"
+"4"
+Ok(54)
+Ok("ttsgz9")
+["9"]
+"9"
+"9"
+Ok(99)
+Ok("9eightthreeonezrninetwo")
+["9", "eight", "three", "one", "nine", "two"]
+"9"
+"2"
+Ok(92)
+Ok("pbccq6onefoureightbkvgvtm3")
+["6", "one", "four", "eight", "3"]
+"6"
+"3"
+Ok(63)
+Ok("9tworrchzdzfthreefgksrzjpdq")
+["9", "two", "three"]
+"9"
+"3"
+Ok(93)
+Ok("chcjdxbninejtwo1nineszf2one")
+["nine", "two", "1", "nine", "2", "one"]
+"9"
+"1"
+Ok(91)
+Ok("ronecfcdlsqgfvlxj217")
+["one", "2", "1", "7"]
+"1"
+"7"
+Ok(17)
+Ok("three4onex1")
+["three", "4", "one", "1"]
+"3"
+"1"
+Ok(31)
+Ok("8nrhcn3zgsgn3239")
+["8", "3", "3", "2", "3", "9"]
+"8"
+"9"
+Ok(89)
+Ok("3tczzbrvdm6tphb32")
+["3", "6", "3", "2"]
+"3"
+"2"
+Ok(32)
+Ok("85threecnqsscqklhsix")
+["8", "5", "three", "six"]
+"8"
+"6"
+Ok(86)
+Ok("5foureightnine57nshjbgrv")
+["5", "four", "eight", "nine", "5", "7"]
+"5"
+"7"
+Ok(57)
+Ok("1fourpcgljhlx5")
+["1", "four", "5"]
+"1"
+"5"
+Ok(15)
+Ok("v632eightnnjrjl")
+["6", "3", "2", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("zlpfive6xthreeczrknclqdtfiveseven")
+["five", "6", "three", "five", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("6ninekbdmjqrktwo2")
+["6", "nine", "two", "2"]
+"6"
+"2"
+Ok(62)
+Ok("threetwofourlqjnmnine767")
+["three", "two", "four", "nine", "7", "6", "7"]
+"3"
+"7"
+Ok(37)
+Ok("8two5mbs3eightthreethreelvhcgrd")
+["8", "two", "5", "3", "eight", "three", "three"]
+"8"
+"3"
+Ok(83)
+Ok("zntoneightfour1lcbzfhm4msneight7")
+["one", "four", "1", "4", "eight", "7"]
+"1"
+"7"
+Ok(17)
+Ok("7eight5eightone")
+["7", "eight", "5", "eight", "one"]
+"7"
+"1"
+Ok(71)
+Ok("8rpbfqb44")
+["8", "4", "4"]
+"8"
+"4"
+Ok(84)
+Ok("rfninelkclkflsjsrb3")
+["nine", "3"]
+"9"
+"3"
+Ok(93)
+Ok("jzxlngk1")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("5zsnxfdt82qmszx")
+["5", "8", "2"]
+"5"
+"2"
+Ok(52)
+Ok("75threetcvbmhplqmhrcztsghctvsvrhkftwo")
+["7", "5", "three", "two"]
+"7"
+"2"
+Ok(72)
+Ok("grtwosnjvrpx76")
+["two", "7", "6"]
+"2"
+"6"
+Ok(26)
+Ok("69two1tdsgbgbprs7")
+["6", "9", "two", "1", "7"]
+"6"
+"7"
+Ok(67)
+Ok("vrsrmdngjpn2nine")
+["2", "nine"]
+"2"
+"9"
+Ok(29)
+Ok("onesix44vgdtwo")
+["one", "six", "4", "4", "two"]
+"1"
+"2"
+Ok(12)
+Ok("phtfxkmbfbm61one4pxnvnvld6")
+["6", "1", "one", "4", "6"]
+"6"
+"6"
+Ok(66)
+Ok("hfsmptwo6dtlnfnmtmrpgmr")
+["two", "6"]
+"2"
+"6"
+Ok(26)
+Ok("jgrbttcmfkkbrdeight846dzgdjxd3")
+["eight", "8", "4", "6", "3"]
+"8"
+"3"
+Ok(83)
+Ok("jdsfprdmhpvzqbgjdgdvkhmtqzxgm8flhxfive")
+["8", "five"]
+"8"
+"5"
+Ok(85)
+Ok("qj36gfj")
+["3", "6"]
+"3"
+"6"
+Ok(36)
+Ok("3twonine")
+["3", "two", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("bszc6bvfkfjbbh")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("4sevenfive4one")
+["4", "seven", "five", "4", "one"]
+"4"
+"1"
+Ok(41)
+Ok("fourhxkhxtvtblsevenonekgnpnjqq46ctvmzkqvxdl")
+["four", "seven", "one", "4", "6"]
+"4"
+"6"
+Ok(46)
+Ok("6989hvr4258")
+["6", "9", "8", "9", "4", "2", "5", "8"]
+"6"
+"8"
+Ok(68)
+Ok("seveneightfivegbzczonerqkdvsfour6")
+["seven", "eight", "five", "one", "four", "6"]
+"7"
+"6"
+Ok(76)
+Ok("326sevenoneeightfour")
+["3", "2", "6", "seven", "one", "eight", "four"]
+"3"
+"4"
+Ok(34)
+Ok("41five8one3")
+["4", "1", "five", "8", "one", "3"]
+"4"
+"3"
+Ok(43)
+Ok("zrtnkqtqfive91bxfctxnk")
+["five", "9", "1"]
+"5"
+"1"
+Ok(51)
+Ok("t226n6xnrdeight5")
+["2", "2", "6", "6", "eight", "5"]
+"2"
+"5"
+Ok(25)
+Ok("one5onetlzbbxchgfhzgx")
+["one", "5", "one"]
+"1"
+"1"
+Ok(11)
+Ok("five5seven8")
+["five", "5", "seven", "8"]
+"5"
+"8"
+Ok(58)
+Ok("1pnvdbvl2zrjpbkbpthree")
+["1", "2", "three"]
+"1"
+"3"
+Ok(13)
+Ok("tlctwone39zfdqtnjshzjrqkcdnjnszrdfive")
+["two", "3", "9", "five"]
+"2"
+"5"
+Ok(25)
+Ok("snklklhpcclkrtkn2eight15three8")
+["2", "eight", "1", "5", "three", "8"]
+"2"
+"8"
+Ok(28)
+Ok("7threeplhsfsevenbgbbnineftvjbnvxpsm")
+["7", "three", "seven", "nine"]
+"7"
+"9"
+Ok(79)
+Ok("5dtxxthtphbnc")
+["5"]
+"5"
+"5"
+Ok(55)
+Ok("six7four")
+["six", "7", "four"]
+"6"
+"4"
+Ok(64)
+Ok("djsvntknhnqv2qrvnrz")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("twosevenbzvfzpbonenine5")
+["two", "seven", "one", "nine", "5"]
+"2"
+"5"
+Ok(25)
+Ok("1tq2eightseven3sixvjvnkqq4")
+["1", "2", "eight", "seven", "3", "six", "4"]
+"1"
+"4"
+Ok(14)
+Ok("z55")
+["5", "5"]
+"5"
+"5"
+Ok(55)
+Ok("4mthgcrfbcvphfmglvcjsl8pctb")
+["4", "8"]
+"4"
+"8"
+Ok(48)
+Ok("6jgptkgcl43bthreetjfxchtxlf5")
+["6", "4", "3", "three", "5"]
+"6"
+"5"
+Ok(65)
+Ok("5zxgktvdnninenine9")
+["5", "nine", "nine", "9"]
+"5"
+"9"
+Ok(59)
+Ok("lhdfivevxrgpkpzrzjlg5mk")
+["five", "5"]
+"5"
+"5"
+Ok(55)
+Ok("oneseven4seven6njmkvkpjmg")
+["one", "seven", "4", "seven", "6"]
+"1"
+"6"
+Ok(16)
+Ok("cblmbxlthtfqfk59three8")
+["5", "9", "three", "8"]
+"5"
+"8"
+Ok(58)
+Ok("xxcnvsfour298mqqrbcn")
+["four", "2", "9", "8"]
+"4"
+"8"
+Ok(48)
+Ok("lbvmgdpgbd3hgmpthreefourjbdbfvvv5vfqrd4")
+["3", "three", "four", "5", "4"]
+"3"
+"4"
+Ok(34)
+Ok("vsxshfhftrgpstxtj94xnxrntxnlcgtdjtqpbmh")
+["9", "4"]
+"9"
+"4"
+Ok(94)
+Ok("six7fournrmdgzldndnrgrkxlbtdonemjftskhhm4")
+["six", "7", "four", "one", "4"]
+"6"
+"4"
+Ok(64)
+Ok("1sixtwoseventwofivezbsdvdqncffourkknlsx")
+["1", "six", "two", "seven", "two", "five", "four"]
+"1"
+"4"
+Ok(14)
+Ok("78mqspvdsb2")
+["7", "8", "2"]
+"7"
+"2"
+Ok(72)
+Ok("teight4skkdlfcsrc38jfjtmfour2")
+["eight", "4", "3", "8", "four", "2"]
+"8"
+"2"
+Ok(82)
+Ok("3pgbppzbmlbsevensix533one")
+["3", "seven", "six", "5", "3", "3", "one"]
+"3"
+"1"
+Ok(31)
+Ok("hzrfpeighthjrf4kqttngxfivefivehzvxnzfk4")
+["eight", "4", "five", "five", "4"]
+"8"
+"4"
+Ok(84)
+Ok("18zldlpktnceight")
+["1", "8", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("six6lvnt6k")
+["six", "6", "6"]
+"6"
+"6"
+Ok(66)
+Ok("28sixs")
+["2", "8", "six"]
+"2"
+"6"
+Ok(26)
+Ok("348lmkg9one4")
+["3", "4", "8", "9", "one", "4"]
+"3"
+"4"
+Ok(34)
+Ok("4ninesnqqzoneltjhsjjbnp2")
+["4", "nine", "one", "2"]
+"4"
+"2"
+Ok(42)
+Ok("rckbvndsjm99six2nine")
+["9", "9", "six", "2", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("eight5vhjvgrrthreetwo6")
+["eight", "5", "three", "two", "6"]
+"8"
+"6"
+Ok(86)
+Ok("2fourseven1oneights")
+["2", "four", "seven", "1", "one"]
+"2"
+"1"
+Ok(21)
+Ok("7threeonethreex")
+["7", "three", "one", "three"]
+"7"
+"3"
+Ok(73)
+Ok("662dvrszddqqtwoeightsixeight9")
+["6", "6", "2", "two", "eight", "six", "eight", "9"]
+"6"
+"9"
+Ok(69)
+Ok("xftcvpmkl2threecdqsix48kgfktcdn8")
+["2", "three", "six", "4", "8", "8"]
+"2"
+"8"
+Ok(28)
+Ok("3rcgdrjcnmb")
+["3"]
+"3"
+"3"
+Ok(33)
+Ok("4three5")
+["4", "three", "5"]
+"4"
+"5"
+Ok(45)
+Ok("two3twotwonine7ljonezh")
+["two", "3", "two", "two", "nine", "7", "one"]
+"2"
+"1"
+Ok(21)
+Ok("17mdbr9ninehhs3")
+["1", "7", "9", "nine", "3"]
+"1"
+"3"
+Ok(13)
+Ok("nchgkdvbm8onebhdtmgdgkqjfour")
+["8", "one", "four"]
+"8"
+"4"
+Ok(84)
+Ok("1eightpqbslptjfgninenine72")
+["1", "eight", "nine", "nine", "7", "2"]
+"1"
+"2"
+Ok(12)
+Ok("1ghpjmc4q")
+["1", "4"]
+"1"
+"4"
+Ok(14)
+Ok("245seventgftbfkbnztwoone")
+["2", "4", "5", "seven", "two", "one"]
+"2"
+"1"
+Ok(21)
+Ok("94gxjjlptflxsvsrxxone")
+["9", "4", "one"]
+"9"
+"1"
+Ok(91)
+Ok("seven3three")
+["seven", "3", "three"]
+"7"
+"3"
+Ok(73)
+Ok("7foureight")
+["7", "four", "eight"]
+"7"
+"8"
+Ok(78)
+Ok("mxgc6")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("sixthree6rrdntczlrrnsnine")
+["six", "three", "6", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("9three4nd1eightseven")
+["9", "three", "4", "1", "eight", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("ndeightwosnlvkv8jdllrtwo741")
+["eight", "8", "two", "7", "4", "1"]
+"8"
+"1"
+Ok(81)
+Ok("threefour6bkscthreeeight")
+["three", "four", "6", "three", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("hffoneight96vqkbsgpzvn3sixtxh4ckjlm3")
+["one", "9", "6", "3", "six", "4", "3"]
+"1"
+"3"
+Ok(13)
+Ok("vc6tnine5mfplhklmv")
+["6", "nine", "5"]
+"6"
+"5"
+Ok(65)
+Ok("zoneight35ninefour1q5ssmjtf")
+["one", "3", "5", "nine", "four", "1", "5"]
+"1"
+"5"
+Ok(15)
+Ok("rkblg8tzdjhrsdxbcx")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("kgvqtxzjr56psfour9")
+["5", "6", "four", "9"]
+"5"
+"9"
+Ok(59)
+Ok("6dtbh67five")
+["6", "6", "7", "five"]
+"6"
+"5"
+Ok(65)
+Ok("qjx4two2ls")
+["4", "two", "2"]
+"4"
+"2"
+Ok(42)
+Ok("hfstd58three65twosbxll")
+["5", "8", "three", "6", "5", "two"]
+"5"
+"2"
+Ok(52)
+Ok("g2twosixvlvtt")
+["2", "two", "six"]
+"2"
+"6"
+Ok(26)
+Ok("sevensix4nineonetvfcctgnj")
+["seven", "six", "4", "nine", "one"]
+"7"
+"1"
+Ok(71)
+Ok("tkjbktckztwozzstwo7jgxbxxrkzx")
+["two", "two", "7"]
+"2"
+"7"
+Ok(27)
+Ok("8gftwosjkhqxvfpqrsrseven")
+["8", "two", "seven"]
+"8"
+"7"
+Ok(87)
+Ok("sevenkphl9eight91onesxjvtfdccd")
+["seven", "9", "eight", "9", "1", "one"]
+"7"
+"1"
+Ok(71)
+Ok("lcrvslcc6bhzlcmz")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("bbxdjdfprnjtxhsevendzsbczc6one")
+["seven", "6", "one"]
+"7"
+"1"
+Ok(71)
+Ok("one5m29")
+["one", "5", "2", "9"]
+"1"
+"9"
+Ok(19)
+Ok("h3one")
+["3", "one"]
+"3"
+"1"
+Ok(31)
+Ok("sixtjdgzvfqpjvdthree421x7")
+["six", "three", "4", "2", "1", "7"]
+"6"
+"7"
+Ok(67)
+Ok("eightfiveeight8sbmspqltvsxsix")
+["eight", "five", "eight", "8", "six"]
+"8"
+"6"
+Ok(86)
+Ok("four8two")
+["four", "8", "two"]
+"4"
+"2"
+Ok(42)
+Ok("5sixfour94961")
+["5", "six", "four", "9", "4", "9", "6", "1"]
+"5"
+"1"
+Ok(51)
+Ok("9two6onenjfsnqnmfc")
+["9", "two", "6", "one"]
+"9"
+"1"
+Ok(91)
+Ok("fivethree8six3l")
+["five", "three", "8", "six", "3"]
+"5"
+"3"
+Ok(53)
+Ok("1twokzqnbclbqgtbeightrtwo")
+["1", "two", "eight", "two"]
+"1"
+"2"
+Ok(12)
+Ok("7csgktwooneone")
+["7", "two", "one", "one"]
+"7"
+"1"
+Ok(71)
+Ok("75nine8two")
+["7", "5", "nine", "8", "two"]
+"7"
+"2"
+Ok(72)
+Ok("fourrj5tfdrlgdzrfptxvnine")
+["four", "5", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("four4seven5eight")
+["four", "4", "seven", "5", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("6onesixtpsgqgk5seven")
+["6", "one", "six", "5", "seven"]
+"6"
+"7"
+Ok(67)
+Ok("qpznmcmfgpfqmzvkthdseven93threersxsktrkk99")
+["seven", "9", "3", "three", "9", "9"]
+"7"
+"9"
+Ok(79)
+Ok("587nine6eightseventhreeqmjv")
+["5", "8", "7", "nine", "6", "eight", "seven", "three"]
+"5"
+"3"
+Ok(53)
+Ok("zfssixvkhtlcmltwo7")
+["six", "two", "7"]
+"6"
+"7"
+Ok(67)
+Ok("8bqvgfnzg")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("6l2eighttjtgrj1knrtjqrpjd")
+["6", "2", "eight", "1"]
+"6"
+"1"
+Ok(61)
+Ok("lmjbs6ninethreeeight58")
+["6", "nine", "three", "eight", "5", "8"]
+"6"
+"8"
+Ok(68)
+Ok("1ktxhfzkgrfmtthree")
+["1", "three"]
+"1"
+"3"
+Ok(13)
+Ok("xtmfsxsdfgfivethreefour9fnjcmbdz")
+["five", "three", "four", "9"]
+"5"
+"9"
+Ok(59)
+Ok("vlhlhzsevenonelhql285xccp")
+["seven", "one", "2", "8", "5"]
+"7"
+"5"
+Ok(75)
+Ok("3172bndlm4sevenpnz")
+["3", "1", "7", "2", "4", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("6sbzqfftqnfourhktmxxqkthreepzkjvfxxfour")
+["6", "four", "three", "four"]
+"6"
+"4"
+Ok(64)
+Ok("sevenfoursix544nineqr")
+["seven", "four", "six", "5", "4", "4", "nine"]
+"7"
+"9"
+Ok(79)
+Ok("9eightsevensevenqrxjzmmfjnd")
+["9", "eight", "seven", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("ceightwogntfttkkkdpsq3")
+["eight", "3"]
+"8"
+"3"
+Ok(83)
+Ok("gpmtpbchjdpgmkone8sixmhm53")
+["one", "8", "six", "5", "3"]
+"1"
+"3"
+Ok(13)
+Ok("ndfz9twoonelprmtwoslvvp3")
+["9", "two", "one", "two", "3"]
+"9"
+"3"
+Ok(93)
+Ok("njrtr14sevenninevmnbone")
+["1", "4", "seven", "nine", "one"]
+"1"
+"1"
+Ok(11)
+Ok("1q")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("seven1eight")
+["seven", "1", "eight"]
+"7"
+"8"
+Ok(78)
+Ok("svstnvxdbmseven9pbfrsgvlhd398")
+["seven", "9", "3", "9", "8"]
+"7"
+"8"
+Ok(78)
+Ok("3ninefivelbcxcfcc")
+["3", "nine", "five"]
+"3"
+"5"
+Ok(35)
+Ok("9njgmxpeightpqgj")
+["9", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("three6636bbqrtxprjb4onetkkgxxmtv")
+["three", "6", "6", "3", "6", "4", "one"]
+"3"
+"1"
+Ok(31)
+Ok("7ssrrsfourfournine")
+["7", "four", "four", "nine"]
+"7"
+"9"
+Ok(79)
+Ok("4one1eightzgcpkgbpgmsevenninetwonetk")
+["4", "one", "1", "eight", "seven", "nine", "two"]
+"4"
+"2"
+Ok(42)
+Ok("threelpmgdpmmsevenxkphrddr5two9")
+["three", "seven", "5", "two", "9"]
+"3"
+"9"
+Ok(39)
+Ok("plpzz4")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("91fiveg")
+["9", "1", "five"]
+"9"
+"5"
+Ok(95)
+Ok("fournnjzsnrqzbdggldr9")
+["four", "9"]
+"4"
+"9"
+Ok(49)
+Ok("llnsix5sevenfive45threeone")
+["six", "5", "seven", "five", "4", "5", "three", "one"]
+"6"
+"1"
+Ok(61)
+Ok("xxnftztcbzrptthreervfiveseven9sevenlnxhzvk")
+["three", "five", "seven", "9", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("glceightwo4eightnineeight9fpbp")
+["eight", "4", "eight", "nine", "eight", "9"]
+"8"
+"9"
+Ok(89)
+Ok("six6eightfour1fjlmmqlqszvkbspshcvnjlxfvmm")
+["six", "6", "eight", "four", "1"]
+"6"
+"1"
+Ok(61)
+Ok("6sevenfourmnv1qcf2khfjclcsx")
+["6", "seven", "four", "1", "2"]
+"6"
+"2"
+Ok(62)
+Ok("fivebsvvnhgcp6jdqrcfreightwohfh")
+["five", "6", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("9eight5onerjvcdct5")
+["9", "eight", "5", "one", "5"]
+"9"
+"5"
+Ok(95)
+Ok("jb81onefournine35tftlzn")
+["8", "1", "one", "four", "nine", "3", "5"]
+"8"
+"5"
+Ok(85)
+Ok("59sevenpcfninevtrrrhmeight")
+["5", "9", "seven", "nine", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("hkphm7five")
+["7", "five"]
+"7"
+"5"
+Ok(75)
+Ok("8ttb")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("eight9five85pxv")
+["eight", "9", "five", "8", "5"]
+"8"
+"5"
+Ok(85)
+Ok("72threepsixgrvfourgbbgbgprtxmhlz")
+["7", "2", "three", "six", "four"]
+"7"
+"4"
+Ok(74)
+Ok("1pgdjtmkntbjfckgq")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("9brqcqvqgzgpgtvbtktxkxjnine4")
+["9", "nine", "4"]
+"9"
+"4"
+Ok(94)
+Ok("26fourtwo8")
+["2", "6", "four", "two", "8"]
+"2"
+"8"
+Ok(28)
+Ok("six3tncnc6pbjkbkgninenssjbgqdpeight")
+["six", "3", "6", "nine", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("sixrjtfbdlrv5rdmpbqfxfxrccs")
+["six", "5"]
+"6"
+"5"
+Ok(65)
+Ok("kmbcgt81seven9jsnvdtwo1")
+["8", "1", "seven", "9", "two", "1"]
+"8"
+"1"
+Ok(81)
+Ok("9sixseven49hzxlf")
+["9", "six", "seven", "4", "9"]
+"9"
+"9"
+Ok(99)
+Ok("jmcssix7onesix")
+["six", "7", "one", "six"]
+"6"
+"6"
+Ok(66)
+Ok("pzttczmzhgtgtvvlhpkv5jnjqnxkhceightfivepnfn")
+["5", "eight", "five"]
+"5"
+"5"
+Ok(55)
+Ok("1955xv")
+["1", "9", "5", "5"]
+"1"
+"5"
+Ok(15)
+Ok("sixthree247nine1")
+["six", "three", "2", "4", "7", "nine", "1"]
+"6"
+"1"
+Ok(61)
+Ok("jfdgxhkfour1eight1six2")
+["four", "1", "eight", "1", "six", "2"]
+"4"
+"2"
+Ok(42)
+Ok("threefrdlbmnqrreight4psfonegggjj")
+["three", "eight", "4", "one"]
+"3"
+"1"
+Ok(31)
+Ok("391eightfour54nine")
+["3", "9", "1", "eight", "four", "5", "4", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("95five6")
+["9", "5", "five", "6"]
+"9"
+"6"
+Ok(96)
+Ok("dqvseven8five")
+["seven", "8", "five"]
+"7"
+"5"
+Ok(75)
+Ok("3onetwo1fivexppqsltgtwosfb4")
+["3", "one", "two", "1", "five", "two", "4"]
+"3"
+"4"
+Ok(34)
+Ok("6fivetwo")
+["6", "five", "two"]
+"6"
+"2"
+Ok(62)
+Ok("5eight4j")
+["5", "eight", "4"]
+"5"
+"4"
+Ok(54)
+Ok("7l")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("7khdvfks5threesix2")
+["7", "5", "three", "six", "2"]
+"7"
+"2"
+Ok(72)
+Ok("46fivethreezfszfkxctworjgtwoghrtpz")
+["4", "6", "five", "three", "two", "two"]
+"4"
+"2"
+Ok(42)
+Ok("threetwokjdljphg5onefoursevensevenjnc")
+["three", "two", "5", "one", "four", "seven", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("rddxs722cg")
+["7", "2", "2"]
+"7"
+"2"
+Ok(72)
+Ok("pkpsgblkvsevennstsqvh3twofivekkhzzhqxjjsbvvvvnine")
+["seven", "3", "two", "five", "nine"]
+"7"
+"9"
+Ok(79)
+Ok("fivethree77one")
+["five", "three", "7", "7", "one"]
+"5"
+"1"
+Ok(51)
+Ok("63twonine727")
+["6", "3", "two", "nine", "7", "2", "7"]
+"6"
+"7"
+Ok(67)
+Ok("sglzpbvhccdvdnzdsixthreem6fivesix")
+["six", "three", "6", "five", "six"]
+"6"
+"6"
+Ok(66)
+Ok("ldmtseven7nkhsqkklmzltxvmkrq1")
+["seven", "7", "1"]
+"7"
+"1"
+Ok(71)
+Ok("59kfncssdeight6three7")
+["5", "9", "eight", "6", "three", "7"]
+"5"
+"7"
+Ok(57)
+Ok("zhltwonejbmfvmsix43")
+["two", "six", "4", "3"]
+"2"
+"3"
+Ok(23)
+Ok("73twoninesevensix3")
+["7", "3", "two", "nine", "seven", "six", "3"]
+"7"
+"3"
+Ok(73)
+Ok("five4three5eightsixgvfour")
+["five", "4", "three", "5", "eight", "six", "four"]
+"5"
+"4"
+Ok(54)
+Ok("twovsrjkxtjj5gmbvfiveqmqscfqpsix")
+["two", "5", "five", "six"]
+"2"
+"6"
+Ok(26)
+Ok("sixzdbfgtzk8zhthreecdvvqjbvrcphvhqmlxmfive")
+["six", "8", "three", "five"]
+"6"
+"5"
+Ok(65)
+Ok("nrppflfnine7nd9tfseven")
+["nine", "7", "9", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("3nrclsix")
+["3", "six"]
+"3"
+"6"
+Ok(36)
+Ok("dveightfive1")
+["eight", "five", "1"]
+"8"
+"1"
+Ok(81)
+Ok("3qrdtsfmktwo")
+["3", "two"]
+"3"
+"2"
+Ok(32)
+Ok("ppeightwo4one3")
+["eight", "4", "one", "3"]
+"8"
+"3"
+Ok(83)
+Ok("159pfsbninezgbpvqggfbfxcqzb9")
+["1", "5", "9", "nine", "9"]
+"1"
+"9"
+Ok(19)
+Ok("lrhzqtjrdxrfpbskrseven5qqrnsh")
+["seven", "5"]
+"7"
+"5"
+Ok(75)
+Ok("nine51twothree12")
+["nine", "5", "1", "two", "three", "1", "2"]
+"9"
+"2"
+Ok(92)
+Ok("2six5fivehs")
+["2", "six", "5", "five"]
+"2"
+"5"
+Ok(25)
+Ok("45sixtwothreeone45")
+["4", "5", "six", "two", "three", "one", "4", "5"]
+"4"
+"5"
+Ok(45)
+Ok("kjkfggmzqxrjl4")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("four5five")
+["four", "5", "five"]
+"4"
+"5"
+Ok(45)
+Ok("srtgklg3fjb92seven56mrk")
+["3", "9", "2", "seven", "5", "6"]
+"3"
+"6"
+Ok(36)
+Ok("eightzlmsmnthreetwofour324")
+["eight", "three", "two", "four", "3", "2", "4"]
+"8"
+"4"
+Ok(84)
+Ok("fivefiveninepvfsxponextzdmft4")
+["five", "five", "nine", "one", "4"]
+"5"
+"4"
+Ok(54)
+Ok("vneightwonine7ntgxbzfouronetwofzzgkkhtx3nine")
+["eight", "nine", "7", "four", "one", "two", "3", "nine"]
+"8"
+"9"
+Ok(89)
+Ok("ndcvzhxbrqmfjcjpzffourfive4gzkxzzlsqn1fjdb")
+["four", "five", "4", "1"]
+"4"
+"1"
+Ok(41)
+Ok("2799ph")
+["2", "7", "9", "9"]
+"2"
+"9"
+Ok(29)
+Ok("6nine77twoznzbjnjhkqljmsmnj")
+["6", "nine", "7", "7", "two"]
+"6"
+"2"
+Ok(62)
+Ok("bkzttcjdmpdclpzmpxj67tfour")
+["6", "7", "four"]
+"6"
+"4"
+Ok(64)
+Ok("6btjcjxsevenfcgbjjsxhmlklvzv")
+["6", "seven"]
+"6"
+"7"
+Ok(67)
+Ok("four9vpfpknine")
+["four", "9", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("onesrjxsfncglvkzs5tpr")
+["one", "5"]
+"1"
+"5"
+Ok(15)
+Ok("qgf782lqzvqztbqjqrqdnfpkthree")
+["7", "8", "2", "three"]
+"7"
+"3"
+Ok(73)
+Ok("seven8f3four")
+["seven", "8", "3", "four"]
+"7"
+"4"
+Ok(74)
+Ok("sevenpkksntfdlqxvqjfgfourztpbglbhmhlfftmxtp54")
+["seven", "four", "5", "4"]
+"7"
+"4"
+Ok(74)
+Ok("6fourseven4eight")
+["6", "four", "seven", "4", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("9lfcjnfournine")
+["9", "four", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("four8fiveseven7threecz")
+["four", "8", "five", "seven", "7", "three"]
+"4"
+"3"
+Ok(43)
+Ok("rfnveight9threetwo5three")
+["eight", "9", "three", "two", "5", "three"]
+"8"
+"3"
+Ok(83)
+Ok("tml98ckph")
+["9", "8"]
+"9"
+"8"
+Ok(98)
+Ok("z4krthreeeightfour3")
+["4", "three", "eight", "four", "3"]
+"4"
+"3"
+Ok(43)
+Ok("six3fhsixxdpmszsbeighthlgd4")
+["six", "3", "six", "eight", "4"]
+"6"
+"4"
+Ok(64)
+Ok("9hbnqkhsndvsevencrl1six5hzg8")
+["9", "seven", "1", "six", "5", "8"]
+"9"
+"8"
+Ok(98)
+Ok("6two5three5")
+["6", "two", "5", "three", "5"]
+"6"
+"5"
+Ok(65)
+Ok("qplckfdsgd2fivefourfivefsix")
+["2", "five", "four", "five", "six"]
+"2"
+"6"
+Ok(26)
+Ok("ninebfour26fivetwonem")
+["nine", "four", "2", "6", "five", "two"]
+"9"
+"2"
+Ok(92)
+Ok("hmbkjkdtnfnzs6")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("325lpxntm")
+["3", "2", "5"]
+"3"
+"5"
+Ok(35)
+Ok("lxtsevenfqpc7jvvtbppczsrmfour")
+["seven", "7", "four"]
+"7"
+"4"
+Ok(74)
+Ok("threepfpnbkvq59fgmsrglvcfivenhb")
+["three", "5", "9", "five"]
+"3"
+"5"
+Ok(35)
+Ok("5cmq8vxdn2nine")
+["5", "8", "2", "nine"]
+"5"
+"9"
+Ok(59)
+Ok("zpzvknntdf1threefour2zdh")
+["1", "three", "four", "2"]
+"1"
+"2"
+Ok(12)
+Ok("five399kgztnine")
+["five", "3", "9", "9", "nine"]
+"5"
+"9"
+Ok(59)
+Ok("nmddfssix3sevendrbt")
+["six", "3", "seven"]
+"6"
+"7"
+Ok(67)
+Ok("seven7fivebr5xc")
+["seven", "7", "five", "5"]
+"7"
+"5"
+Ok(75)
+Ok("177two")
+["1", "7", "7", "two"]
+"1"
+"2"
+Ok(12)
+Ok("3four38six6")
+["3", "four", "3", "8", "six", "6"]
+"3"
+"6"
+Ok(36)
+Ok("eight9four")
+["eight", "9", "four"]
+"8"
+"4"
+Ok(84)
+Ok("49llmpmzkfgsevenrrbdzk4")
+["4", "9", "seven", "4"]
+"4"
+"4"
+Ok(44)
+Ok("four23ceightxxthtplmk")
+["four", "2", "3", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("qmjjvkfd34qkkd3")
+["3", "4", "3"]
+"3"
+"3"
+Ok(33)
+Ok("foursevenrgjxsvlkz7173kr")
+["four", "seven", "7", "1", "7", "3"]
+"4"
+"3"
+Ok(43)
+Ok("three82fivermfnqgcfourtbtnpjfnk")
+["three", "8", "2", "five", "four"]
+"3"
+"4"
+Ok(34)
+Ok("744mpdkhr87")
+["7", "4", "4", "8", "7"]
+"7"
+"7"
+Ok(77)
+Ok("75qfzxshzphsnineone8")
+["7", "5", "nine", "one", "8"]
+"7"
+"8"
+Ok(78)
+Ok("two6five")
+["two", "6", "five"]
+"2"
+"5"
+Ok(25)
+Ok("fourbhgndsgmceight3")
+["four", "eight", "3"]
+"4"
+"3"
+Ok(43)
+Ok("2one186")
+["2", "one", "1", "8", "6"]
+"2"
+"6"
+Ok(26)
+Ok("833xjbcqdgmeightfive")
+["8", "3", "3", "eight", "five"]
+"8"
+"5"
+Ok(85)
+Ok("pfgt93bkzrzbthnssevenczvkfklkbpgnjt")
+["9", "3", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("dlsix8seven5")
+["six", "8", "seven", "5"]
+"6"
+"5"
+Ok(65)
+Ok("4two4")
+["4", "two", "4"]
+"4"
+"4"
+Ok(44)
+Ok("qtblgfgms6lsctgslddgpnx1cxrmbnjconeslscbqvljpfive")
+["6", "1", "one", "five"]
+"6"
+"5"
+Ok(65)
+Ok("mllxhpd5")
+["5"]
+"5"
+"5"
+Ok(55)
+Ok("kfvjhcz9seven16")
+["9", "seven", "1", "6"]
+"9"
+"6"
+Ok(96)
+Ok("eight36")
+["eight", "3", "6"]
+"8"
+"6"
+Ok(86)
+Ok("633793")
+["6", "3", "3", "7", "9", "3"]
+"6"
+"3"
+Ok(63)
+Ok("phqeightwomd27eightqkcltdfourx")
+["eight", "2", "7", "eight", "four"]
+"8"
+"4"
+Ok(84)
+Ok("2fiveonednjb6ninepznvnhrbvdsdnine")
+["2", "five", "one", "6", "nine", "nine"]
+"2"
+"9"
+Ok(29)
+Ok("8eightfhjdzzhmct74three")
+["8", "eight", "7", "4", "three"]
+"8"
+"3"
+Ok(83)
+Ok("vxps976")
+["9", "7", "6"]
+"9"
+"6"
+Ok(96)
+Ok("threethreebbninefive9")
+["three", "three", "nine", "five", "9"]
+"3"
+"9"
+Ok(39)
+Ok("6xdttgthree9rpg")
+["6", "three", "9"]
+"6"
+"9"
+Ok(69)
+Ok("fivedfbkffgldktbt6fiveqlxcznqxlgltc9")
+["five", "6", "five", "9"]
+"5"
+"9"
+Ok(59)
+Ok("4ltnlkdmthree7gcbqnskeightseven")
+["4", "three", "7", "eight", "seven"]
+"4"
+"7"
+Ok(47)
+Ok("onefournsjgbcn34fouronexjxd")
+["one", "four", "3", "4", "four", "one"]
+"1"
+"1"
+Ok(11)
+Ok("169326srhszxcrn1")
+["1", "6", "9", "3", "2", "6", "1"]
+"1"
+"1"
+Ok(11)
+Ok("5meight6dfive")
+["5", "eight", "6", "five"]
+"5"
+"5"
+Ok(55)
+Ok("kztjjnknine2eight87nineskqjpvn6")
+["nine", "2", "eight", "8", "7", "nine", "6"]
+"9"
+"6"
+Ok(96)
+Ok("seven3four96")
+["seven", "3", "four", "9", "6"]
+"7"
+"6"
+Ok(76)
+Ok("8four5kkgmppkt")
+["8", "four", "5"]
+"8"
+"5"
+Ok(85)
+Ok("52six8fourvtdrcj7five")
+["5", "2", "six", "8", "four", "7", "five"]
+"5"
+"5"
+Ok(55)
+Ok("9tgbcxcvggv4ninettxjrjv")
+["9", "4", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("ninepdmghhq5sixtwo")
+["nine", "5", "six", "two"]
+"9"
+"2"
+Ok(92)
+Ok("fivexvfdone14")
+["five", "one", "1", "4"]
+"5"
+"4"
+Ok(54)
+Ok("foursevenfourfqjqthreefour4qcvqglr")
+["four", "seven", "four", "three", "four", "4"]
+"4"
+"4"
+Ok(44)
+Ok("four9sixtwo48")
+["four", "9", "six", "two", "4", "8"]
+"4"
+"8"
+Ok(48)
+Ok("pzvrgmbvngtvcmmgthreepvb7sevenfvhxchplsfsdcltwo")
+["three", "7", "seven", "two"]
+"3"
+"2"
+Ok(32)
+Ok("gkrnmzzrd3")
+["3"]
+"3"
+"3"
+Ok(33)
+Ok("nine2qzgltqninelrnlrjzn923kkpmpm")
+["nine", "2", "nine", "9", "2", "3"]
+"9"
+"3"
+Ok(93)
+Ok("7tts7qmbthree4539")
+["7", "7", "three", "4", "5", "3", "9"]
+"7"
+"9"
+Ok(79)
+Ok("sevenone9ghdb8")
+["seven", "one", "9", "8"]
+"7"
+"8"
+Ok(78)
+Ok("jvcc18fourninetwoqvkg7three")
+["1", "8", "four", "nine", "two", "7", "three"]
+"1"
+"3"
+Ok(13)
+Ok("four4onenine")
+["four", "4", "one", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("19vbsdkslnn6sevenktkqmcp4")
+["1", "9", "6", "seven", "4"]
+"1"
+"4"
+Ok(14)
+Ok("n6")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("7psthfqcfd")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("99nineeight861")
+["9", "9", "nine", "eight", "8", "6", "1"]
+"9"
+"1"
+Ok(91)
+Ok("1four3eightbkfnrdcqdqdmkgfzbbn6")
+["1", "four", "3", "eight", "6"]
+"1"
+"6"
+Ok(16)
+Ok("27nlcslnseven5hdvsix8")
+["2", "7", "seven", "5", "six", "8"]
+"2"
+"8"
+Ok(28)
+Ok("9nbzzjjsvtwoxg3seven3nine")
+["9", "two", "3", "seven", "3", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("7sixnhldjcjfsgvpxrsnxtcblpgvcvjrmkhzx")
+["7", "six"]
+"7"
+"6"
+Ok(76)
+Ok("2726nsdtb1")
+["2", "7", "2", "6", "1"]
+"2"
+"1"
+Ok(21)
+Ok("2five3six5three3mhnclq")
+["2", "five", "3", "six", "5", "three", "3"]
+"2"
+"3"
+Ok(23)
+Ok("sevenfivetwo1fivekpxrpjkgktwo")
+["seven", "five", "two", "1", "five", "two"]
+"7"
+"2"
+Ok(72)
+Ok("7one4tnkqfvqlmjrzlqflnrsf")
+["7", "one", "4"]
+"7"
+"4"
+Ok(74)
+Ok("nvlkqzjt2nineseven28")
+["2", "nine", "seven", "2", "8"]
+"2"
+"8"
+Ok(28)
+Ok("ltqschggjgrrxbtfz3onesevencpzbffbvzhpgzmlmxxbqjrtxc")
+["3", "one", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("518sixeightwop")
+["5", "1", "8", "six", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("cctwonetfmvjx78")
+["two", "7", "8"]
+"2"
+"8"
+Ok(28)
+Ok("2jvrvcsevenlglmgblbfive")
+["2", "seven", "five"]
+"2"
+"5"
+Ok(25)
+Ok("7seven1fivevlbhbsk")
+["7", "seven", "1", "five"]
+"7"
+"5"
+Ok(75)
+Ok("48one4cn6")
+["4", "8", "one", "4", "6"]
+"4"
+"6"
+Ok(46)
+Ok("3one6")
+["3", "one", "6"]
+"3"
+"6"
+Ok(36)
+Ok("nine4jrlbhnpsixvkrcqvzsjj7")
+["nine", "4", "six", "7"]
+"9"
+"7"
+Ok(97)
+Ok("5twochgfgdsevennbmzmxfcrqfeight7qqkhqlrpdf")
+["5", "two", "seven", "eight", "7"]
+"5"
+"7"
+Ok(57)
+Ok("71mxlhzstppmffour1vrtd")
+["7", "1", "four", "1"]
+"7"
+"1"
+Ok(71)
+Ok("82xdqfourkgbmzninefive9")
+["8", "2", "four", "nine", "five", "9"]
+"8"
+"9"
+Ok(89)
+Ok("ddcxpmzfljmfrqz3")
+["3"]
+"3"
+"3"
+Ok(33)
+Ok("five5kcdcxpl3four6")
+["five", "5", "3", "four", "6"]
+"5"
+"6"
+Ok(56)
+Ok("4lsfzhbc8")
+["4", "8"]
+"4"
+"8"
+Ok(48)
+Ok("ninec5jnccxhzdtmtcdjhdrvktgtjjlbnsn")
+["nine", "5"]
+"9"
+"5"
+Ok(95)
+Ok("29mqjflc")
+["2", "9"]
+"2"
+"9"
+Ok(29)
+Ok("9nine3")
+["9", "nine", "3"]
+"9"
+"3"
+Ok(93)
+Ok("79sevencnj44x3")
+["7", "9", "seven", "4", "4", "3"]
+"7"
+"3"
+Ok(73)
+Ok("4fivenine4three")
+["4", "five", "nine", "4", "three"]
+"4"
+"3"
+Ok(43)
+Ok("1lv")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("fourfour8")
+["four", "four", "8"]
+"4"
+"8"
+Ok(48)
+Ok("78xrszkgvptd")
+["7", "8"]
+"7"
+"8"
+Ok(78)
+Ok("htmhxvsmppgxthreethreeeighttwo9")
+["three", "three", "eight", "two", "9"]
+"3"
+"9"
+Ok(39)
+Ok("nntjqhnprfdknfs43ngmk4five3")
+["4", "3", "4", "five", "3"]
+"4"
+"3"
+Ok(43)
+Ok("gqncsix2rxxkjdschstwodknkninefivebfgq")
+["six", "2", "two", "nine", "five"]
+"6"
+"5"
+Ok(65)
+Ok("eighteightqg777579")
+["eight", "eight", "7", "7", "7", "5", "7", "9"]
+"8"
+"9"
+Ok(89)
+Ok("5ftkjlz7")
+["5", "7"]
+"5"
+"7"
+Ok(57)
+Ok("qfqsix7")
+["six", "7"]
+"6"
+"7"
+Ok(67)
+Ok("three79kk5vnd4gvvpjb")
+["three", "7", "9", "5", "4"]
+"3"
+"4"
+Ok(34)
+Ok("dsbxmgs2frm7eight")
+["2", "7", "eight"]
+"2"
+"8"
+Ok(28)
+Ok("2kvlnkrbxxm2seventwosix11")
+["2", "2", "seven", "two", "six", "1", "1"]
+"2"
+"1"
+Ok(21)
+Ok("nvneightwo8")
+["eight", "8"]
+"8"
+"8"
+Ok(88)
+Ok("5seveneightxvspone")
+["5", "seven", "eight", "one"]
+"5"
+"1"
+Ok(51)
+Ok("fiveqhls26498")
+["five", "2", "6", "4", "9", "8"]
+"5"
+"8"
+Ok(58)
+Ok("1snrdfgkc")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("425jqfpteighttwofive")
+["4", "2", "5", "eight", "two", "five"]
+"4"
+"5"
+Ok(45)
+Ok("8rsxmqsftrccbfour")
+["8", "four"]
+"8"
+"4"
+Ok(84)
+Ok("7lb82vxzfk4sevenfive5")
+["7", "8", "2", "4", "seven", "five", "5"]
+"7"
+"5"
+Ok(75)
+Ok("sevenhstzcvvtnjninehhtlnkrldx8pjsxkrlcjdfivezkqdfour")
+["seven", "nine", "8", "five", "four"]
+"7"
+"4"
+Ok(74)
+Ok("8six3dmr6shcm")
+["8", "six", "3", "6"]
+"8"
+"6"
+Ok(86)
+Ok("6573fjkfndqrksixnine8six")
+["6", "5", "7", "3", "six", "nine", "8", "six"]
+"6"
+"6"
+Ok(66)
+Ok("twombmxvbcnine1mzhltonefdlp9")
+["two", "nine", "1", "one", "9"]
+"2"
+"9"
+Ok(29)
+Ok("sevenqzvbpsslz5rone")
+["seven", "5", "one"]
+"7"
+"1"
+Ok(71)
+Ok("8fdllsixonetglrngmdnvbsvjgflzonetwoseven")
+["8", "six", "one", "one", "two", "seven"]
+"8"
+"7"
+Ok(87)
+Ok("8nine6eighthlkj2")
+["8", "nine", "6", "eight", "2"]
+"8"
+"2"
+Ok(82)
+Ok("5rpx52")
+["5", "5", "2"]
+"5"
+"2"
+Ok(52)
+Ok("xseven69bbj1")
+["seven", "6", "9", "1"]
+"7"
+"1"
+Ok(71)
+Ok("qrthree8hkgcsqlrcf5")
+["three", "8", "5"]
+"3"
+"5"
+Ok(35)
+Ok("jhfrvzb5thgmbtcg")
+["5"]
+"5"
+"5"
+Ok(55)
+Ok("nntfour97vgknr")
+["four", "9", "7"]
+"4"
+"7"
+Ok(47)
+Ok("ltwone4hsrctbkfsz9jsfbhkm1seven")
+["two", "4", "9", "1", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("mgxnbgst84sevenfivetwo")
+["8", "4", "seven", "five", "two"]
+"8"
+"2"
+Ok(82)
+Ok("gzdrfhqfcfdhxthree6sxxnmntpkz")
+["three", "6"]
+"3"
+"6"
+Ok(36)
+Ok("3ninepkzhfq1")
+["3", "nine", "1"]
+"3"
+"1"
+Ok(31)
+Ok("fouroneone7")
+["four", "one", "one", "7"]
+"4"
+"7"
+Ok(47)
+Ok("8threetwo56bpjjps")
+["8", "three", "two", "5", "6"]
+"8"
+"6"
+Ok(86)
+Ok("4dvnttthkpgpdmcldvfour8two")
+["4", "four", "8", "two"]
+"4"
+"2"
+Ok(42)
+Ok("2k")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("twomvx81fournbts47kkzggffpp")
+["two", "8", "1", "four", "4", "7"]
+"2"
+"7"
+Ok(27)
+Ok("19seven")
+["1", "9", "seven"]
+"1"
+"7"
+Ok(17)
+Ok("xcbhbdlrdfthreejxjsngllfkfive6pll")
+["three", "five", "6"]
+"3"
+"6"
+Ok(36)
+Ok("52nine8xffndctr1one")
+["5", "2", "nine", "8", "1", "one"]
+"5"
+"1"
+Ok(51)
+Ok("dvqh7eightdnlmntwofour8")
+["7", "eight", "two", "four", "8"]
+"7"
+"8"
+Ok(78)
+Ok("5rfsvhh21vmcxrftwo1")
+["5", "2", "1", "two", "1"]
+"5"
+"1"
+Ok(51)
+Ok("rxfddhhxzlnlfvrk3eightzzhpthree")
+["3", "eight", "three"]
+"3"
+"3"
+Ok(33)
+Ok("92twofhzeight")
+["9", "2", "two", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("djxldch5rxkpzxtcn2smb")
+["5", "2"]
+"5"
+"2"
+Ok(52)
+Ok("2nineninetmhkstmpcprcj5")
+["2", "nine", "nine", "5"]
+"2"
+"5"
+Ok(25)
+Ok("brtronetwothree65")
+["one", "two", "three", "6", "5"]
+"1"
+"5"
+Ok(15)
+Ok("4four6one")
+["4", "four", "6", "one"]
+"4"
+"1"
+Ok(41)
+Ok("7npgvjpr")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("sxvvbhvqcrftwo4fourrtjdnmk6")
+["two", "4", "four", "6"]
+"2"
+"6"
+Ok(26)
+Ok("gv3twofoureight3qlhtjbzbqt9six")
+["3", "two", "four", "eight", "3", "9", "six"]
+"3"
+"6"
+Ok(36)
+Ok("rlbrgkrsz818six3")
+["8", "1", "8", "six", "3"]
+"8"
+"3"
+Ok(83)
+Ok("fourcnsbr3rnzcggxqblhqjonesevensevensix")
+["four", "3", "one", "seven", "seven", "six"]
+"4"
+"6"
+Ok(46)
+Ok("threenine5eightbx")
+["three", "nine", "5", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("klqrlnvgseven22vdrlvbseven")
+["seven", "2", "2", "seven"]
+"7"
+"7"
+Ok(77)
+Ok("jzcnxdonenineseven4fivefourfour")
+["one", "nine", "seven", "4", "five", "four", "four"]
+"1"
+"4"
+Ok(14)
+Ok("4dxjsvlcvslqtmqpcfbbkqhfournine3")
+["4", "four", "nine", "3"]
+"4"
+"3"
+Ok(43)
+Ok("3vtjzclgklnszrv2sixddkcqgbxptrdhnlntrnr")
+["3", "2", "six"]
+"3"
+"6"
+Ok(36)
+Ok("one388qzqhmpzqlqtwo5four")
+["one", "3", "8", "8", "two", "5", "four"]
+"1"
+"4"
+Ok(14)
+Ok("sixnine441sgd9blsvbpnhpsds")
+["six", "nine", "4", "4", "1", "9"]
+"6"
+"9"
+Ok(69)
+Ok("732twothree")
+["7", "3", "2", "two", "three"]
+"7"
+"3"
+Ok(73)
+Ok("sevenqrvrvttnld9fqvvpgpnine39")
+["seven", "9", "nine", "3", "9"]
+"7"
+"9"
+Ok(79)
+Ok("threetwofour28")
+["three", "two", "four", "2", "8"]
+"3"
+"8"
+Ok(38)
+Ok("twofiveksvbnzfmzcbvqrnhsntstbrhf3")
+["two", "five", "3"]
+"2"
+"3"
+Ok(23)
+Ok("fjgcdtfn3")
+["3"]
+"3"
+"3"
+Ok(33)
+Ok("xgccx584six")
+["5", "8", "4", "six"]
+"5"
+"6"
+Ok(56)
+Ok("2xsevensixtwo4six")
+["2", "seven", "six", "two", "4", "six"]
+"2"
+"6"
+Ok(26)
+Ok("xpheightnzdjgkrdmrjcnfprzvnine6cbtmsseven")
+["eight", "nine", "6", "seven"]
+"8"
+"7"
+Ok(87)
+Ok("nine1fivebgqtvsc8")
+["nine", "1", "five", "8"]
+"9"
+"8"
+Ok(98)
+Ok("dznrlhtfivethree43")
+["five", "three", "4", "3"]
+"5"
+"3"
+Ok(53)
+Ok("sixthreerlmtvs7kkvtcx42rgpnljbsp")
+["six", "three", "7", "4", "2"]
+"6"
+"2"
+Ok(62)
+Ok("4frckxvvrd")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("eight4ldhkggpg")
+["eight", "4"]
+"8"
+"4"
+Ok(84)
+Ok("z57sevenxpfgntjnphcntj3bv")
+["5", "7", "seven", "3"]
+"5"
+"3"
+Ok(53)
+Ok("nthvgtxcck39vkpf7")
+["3", "9", "7"]
+"3"
+"7"
+Ok(37)
+Ok("64vzmzlvgeightonefive1tlvfggflj")
+["6", "4", "eight", "one", "five", "1"]
+"6"
+"1"
+Ok(61)
+Ok("fivejrjqzsfxgpdfbvcf58three1two")
+["five", "5", "8", "three", "1", "two"]
+"5"
+"2"
+Ok(52)
+Ok("nine5five")
+["nine", "5", "five"]
+"9"
+"5"
+Ok(95)
+Ok("ssphtp472xjfvlvzdl9oneightg")
+["4", "7", "2", "9", "one"]
+"4"
+"1"
+Ok(41)
+Ok("nine5xltblt9six")
+["nine", "5", "9", "six"]
+"9"
+"6"
+Ok(96)
+Ok("six28eightts5cckgvtnzmdgftxnine")
+["six", "2", "8", "eight", "5", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("tvhxmfeight7")
+["eight", "7"]
+"8"
+"7"
+Ok(87)
+Ok("zdnkjgcs43two9")
+["4", "3", "two", "9"]
+"4"
+"9"
+Ok(49)
+Ok("q35bvblmmqhmnine5zeightwoj")
+["3", "5", "nine", "5", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("gfkpfbn4")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("fivefiveone8")
+["five", "five", "one", "8"]
+"5"
+"8"
+Ok(58)
+Ok("xnsddskzsb6xmfvkhbb54")
+["6", "5", "4"]
+"6"
+"4"
+Ok(64)
+Ok("nhsjx51ckpbntz")
+["5", "1"]
+"5"
+"1"
+Ok(51)
+Ok("7kzxsgtnk5sixjlzlcsfqsxkxmvgnvthree6seven")
+["7", "5", "six", "three", "6", "seven"]
+"7"
+"7"
+Ok(77)
+Ok("fiveseven37")
+["five", "seven", "3", "7"]
+"5"
+"7"
+Ok(57)
+Ok("fourfqxkjct554")
+["four", "5", "5", "4"]
+"4"
+"4"
+Ok(44)
+Ok("rsseven8zdz8xrxpnxv9rkqcnjcpgt1")
+["seven", "8", "8", "9", "1"]
+"7"
+"1"
+Ok(71)
+Ok("jsixeightsevenrjpcqmdz5threeqfqgfqv")
+["six", "eight", "seven", "5", "three"]
+"6"
+"3"
+Ok(63)
+Ok("1threesix76tv4twonetgv")
+["1", "three", "six", "7", "6", "4", "two"]
+"1"
+"2"
+Ok(12)
+Ok("twonzhmrjlgvtvcj6")
+["two", "6"]
+"2"
+"6"
+Ok(26)
+Ok("kxnpphq94three")
+["9", "4", "three"]
+"9"
+"3"
+Ok(93)
+Ok("zone4")
+["one", "4"]
+"1"
+"4"
+Ok(14)
+Ok("5kp4eight87")
+["5", "4", "eight", "8", "7"]
+"5"
+"7"
+Ok(57)
+Ok("93eight9seven")
+["9", "3", "eight", "9", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("9zpz7zqxb1ssgkvtbzhrv8")
+["9", "7", "1", "8"]
+"9"
+"8"
+Ok(98)
+Ok("sixvtdvvxmz2qcvrsnxcmtcszsnrnq84one")
+["six", "2", "8", "4", "one"]
+"6"
+"1"
+Ok(61)
+Ok("ninerggcxmlfqcpjhpjjtlvs5nine1seventtcmvrfr")
+["nine", "5", "nine", "1", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("five24")
+["five", "2", "4"]
+"5"
+"4"
+Ok(54)
+Ok("vpkf7onetwofive")
+["7", "one", "two", "five"]
+"7"
+"5"
+Ok(75)
+Ok("8twosevensix1")
+["8", "two", "seven", "six", "1"]
+"8"
+"1"
+Ok(81)
+Ok("53fivethreetgzcmzsm3fivefive")
+["5", "3", "five", "three", "3", "five", "five"]
+"5"
+"5"
+Ok(55)
+Ok("twokpjnmsc77")
+["two", "7", "7"]
+"2"
+"7"
+Ok(27)
+Ok("twofive53mfjjxq2")
+["two", "five", "5", "3", "2"]
+"2"
+"2"
+Ok(22)
+Ok("5four6fb4four3twocn")
+["5", "four", "6", "4", "four", "3", "two"]
+"5"
+"2"
+Ok(52)
+Ok("fivemvbgtsix55nine")
+["five", "six", "5", "5", "nine"]
+"5"
+"9"
+Ok(59)
+Ok("five65rntfvpxpppkznlfour8")
+["five", "6", "5", "four", "8"]
+"5"
+"8"
+Ok(58)
+Ok("nine42cjtwo")
+["nine", "4", "2", "two"]
+"9"
+"2"
+Ok(92)
+Ok("eighttwothree9247twoeightwoxsq")
+["eight", "two", "three", "9", "2", "4", "7", "two", "eight"]
+"8"
+"8"
+Ok(88)
+Ok("sixlktcgr17six")
+["six", "1", "7", "six"]
+"6"
+"6"
+Ok(66)
+Ok("kpbtwo57fmhdmzmqbt")
+["two", "5", "7"]
+"2"
+"7"
+Ok(27)
+Ok("442dkpxgnine6qbzf")
+["4", "4", "2", "nine", "6"]
+"4"
+"6"
+Ok(46)
+Ok("8fourkmzjzltwo")
+["8", "four", "two"]
+"8"
+"2"
+Ok(82)
+Ok("ztgsrqkone78")
+["one", "7", "8"]
+"1"
+"8"
+Ok(18)
+Ok("dxzsnnsnj1mkctsix4qqbxscdfm9xvngln")
+["1", "six", "4", "9"]
+"1"
+"9"
+Ok(19)
+Ok("four993kql7eightfour7")
+["four", "9", "9", "3", "7", "eight", "four", "7"]
+"4"
+"7"
+Ok(47)
+Ok("pdrtdxmpmm39qkppdjlttdn")
+["3", "9"]
+"3"
+"9"
+Ok(39)
+Ok("ptpvc9mvlhfjkrthree9onesevenfourqbvzhdmc")
+["9", "three", "9", "one", "seven", "four"]
+"9"
+"4"
+Ok(94)
+Ok("dddkfcxrkfkphnhmjbrvmzqeightfourtwopzrmh8")
+["eight", "four", "two", "8"]
+"8"
+"8"
+Ok(88)
+Ok("38tt7psevenvgssvhfbzrhllbh")
+["3", "8", "7", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("nine7fournine6sixgfcrrmnppj")
+["nine", "7", "four", "nine", "6", "six"]
+"9"
+"6"
+Ok(96)
+Ok("fivezdmtj1")
+["five", "1"]
+"5"
+"1"
+Ok(51)
+Ok("ninesix5eight")
+["nine", "six", "5", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("6eight6two2threetwoneg")
+["6", "eight", "6", "two", "2", "three", "two"]
+"6"
+"2"
+Ok(62)
+Ok("ninenineseven4")
+["nine", "nine", "seven", "4"]
+"9"
+"4"
+Ok(94)
+Ok("5tpcvlsqqgv3fb8fsbtfivexbzdx")
+["5", "3", "8", "five"]
+"5"
+"5"
+Ok(55)
+Ok("sixzxfxjmtm24one9422")
+["six", "2", "4", "one", "9", "4", "2", "2"]
+"6"
+"2"
+Ok(62)
+Ok("sqbqtjgdr3eightnbjhzmbt")
+["3", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("fiveone2nine9")
+["five", "one", "2", "nine", "9"]
+"5"
+"9"
+Ok(59)
+Ok("8three4c3fdxnm81")
+["8", "three", "4", "3", "8", "1"]
+"8"
+"1"
+Ok(81)
+Ok("seventwovnine4eightmlzhtkfour4")
+["seven", "two", "nine", "4", "eight", "four", "4"]
+"7"
+"4"
+Ok(74)
+Ok("mfkf42")
+["4", "2"]
+"4"
+"2"
+Ok(42)
+Ok("7threetwosix5")
+["7", "three", "two", "six", "5"]
+"7"
+"5"
+Ok(75)
+Ok("1qqgb74eight")
+["1", "7", "4", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("ttrrsrsrqjtwo2sevenseven8twofour")
+["two", "2", "seven", "seven", "8", "two", "four"]
+"2"
+"4"
+Ok(24)
+Ok("onefivefour14hzdvdvvbrz9eight")
+["one", "five", "four", "1", "4", "9", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("bkqplctgnine28bptqbpfhgs")
+["nine", "2", "8"]
+"9"
+"8"
+Ok(98)
+Ok("1zlhfourlqtljgxztjtseven")
+["1", "four", "seven"]
+"1"
+"7"
+Ok(17)
+Ok("64two")
+["6", "4", "two"]
+"6"
+"2"
+Ok(62)
+Ok("gkfsvbgsone8three1ch")
+["one", "8", "three", "1"]
+"1"
+"1"
+Ok(11)
+Ok("mmjqbmrk494qfbhgl9tdhsldsjvjgbq")
+["4", "9", "4", "9"]
+"4"
+"9"
+Ok(49)
+Ok("kdnldkpfqlqsfivelndmxtbdfc5")
+["five", "5"]
+"5"
+"5"
+Ok(55)
+Ok("9lgtxsc")
+["9"]
+"9"
+"9"
+Ok(99)
+Ok("xzrjpshsslqvbcthreetsixlql3khxbn")
+["three", "six", "3"]
+"3"
+"3"
+Ok(33)
+Ok("three99tcg8nineone")
+["three", "9", "9", "8", "nine", "one"]
+"3"
+"1"
+Ok(31)
+Ok("4jfive8thdhvbl8dkr")
+["4", "five", "8", "8"]
+"4"
+"8"
+Ok(48)
+Ok("619fivecthgp8bcfszxrm")
+["6", "1", "9", "five", "8"]
+"6"
+"8"
+Ok(68)
+Ok("onetjjsmm8dtpkm")
+["one", "8"]
+"1"
+"8"
+Ok(18)
+Ok("two62zlkgsevenhqdp3")
+["two", "6", "2", "seven", "3"]
+"2"
+"3"
+Ok(23)
+Ok("8zfgtfnxvjjxgptxkpkdb1gkndcsbgvzxgqg1oneightq")
+["8", "1", "1", "one"]
+"8"
+"1"
+Ok(81)
+Ok("7vnkhnssixkhrklsdbb96")
+["7", "six", "9", "6"]
+"7"
+"6"
+Ok(76)
+Ok("3sixsix454four")
+["3", "six", "six", "4", "5", "4", "four"]
+"3"
+"4"
+Ok(34)
+Ok("htfxkcvbcbdpmlr42")
+["4", "2"]
+"4"
+"2"
+Ok(42)
+Ok("5dspnxhkrvtmthreeseven68xnxbcb")
+["5", "three", "seven", "6", "8"]
+"5"
+"8"
+Ok(58)
+Ok("fourxmjlnngjv4dcqninebbfprffgzs")
+["four", "4", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("three523eight")
+["three", "5", "2", "3", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("fnxfctsix1")
+["six", "1"]
+"6"
+"1"
+Ok(61)
+Ok("6jx6cqbjqmzmz596nine")
+["6", "6", "5", "9", "6", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("1three2eight1five")
+["1", "three", "2", "eight", "1", "five"]
+"1"
+"5"
+Ok(15)
+Ok("8twoprjjfsthreepqxmhc838")
+["8", "two", "three", "8", "3", "8"]
+"8"
+"8"
+Ok(88)
+Ok("vlpdsntkqpxqdjzggtjfk8five8dthree")
+["8", "five", "8", "three"]
+"8"
+"3"
+Ok(83)
+Ok("four8nineptrbrtlninecdseven1")
+["four", "8", "nine", "nine", "seven", "1"]
+"4"
+"1"
+Ok(41)
+Ok("tfvbjctfive49")
+["five", "4", "9"]
+"5"
+"9"
+Ok(59)
+Ok("four9fivecsqfs")
+["four", "9", "five"]
+"4"
+"5"
+Ok(45)
+Ok("fivefiveggrbf8vcdftdpzhc68fiveggr")
+["five", "five", "8", "6", "8", "five"]
+"5"
+"5"
+Ok(55)
+Ok("sfvhspbgtj2")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("seven1two7bvdsq4seven4fmbfs")
+["seven", "1", "two", "7", "4", "seven", "4"]
+"7"
+"4"
+Ok(74)
+Ok("1hrcsbmcvcthree11")
+["1", "three", "1", "1"]
+"1"
+"1"
+Ok(11)
+Ok("98two")
+["9", "8", "two"]
+"9"
+"2"
+Ok(92)
+Ok("rnvmdvhrthree6")
+["three", "6"]
+"3"
+"6"
+Ok(36)
+Ok("3ksnfzfkrlx86dqjlftjdmtjrbfrsgf")
+["3", "8", "6"]
+"3"
+"6"
+Ok(36)
+Ok("twolsxrkone428")
+["two", "one", "4", "2", "8"]
+"2"
+"8"
+Ok(28)
+Ok("four6eightwokqz")
+["four", "6", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("five2sixnine1fourhdhms")
+["five", "2", "six", "nine", "1", "four"]
+"5"
+"4"
+Ok(54)
+Ok("six26")
+["six", "2", "6"]
+"6"
+"6"
+Ok(66)
+Ok("5seventhreedjsgshhtmlmpjk")
+["5", "seven", "three"]
+"5"
+"3"
+Ok(53)
+Ok("14shpdfxxxzrfseveneightf")
+["1", "4", "seven", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("vprv9two6")
+["9", "two", "6"]
+"9"
+"6"
+Ok(96)
+Ok("nine3xqkpcdqfourfive")
+["nine", "3", "four", "five"]
+"9"
+"5"
+Ok(95)
+Ok("dtjsf923fourjdjzzsmxjh")
+["9", "2", "3", "four"]
+"9"
+"4"
+Ok(94)
+Ok("2fivexdvlgrngjbrqdvzx")
+["2", "five"]
+"2"
+"5"
+Ok(25)
+Ok("6f")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("five191htbfdg2eight")
+["five", "1", "9", "1", "2", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("qmfblcvxfzph8two")
+["8", "two"]
+"8"
+"2"
+Ok(82)
+Ok("ppdkvczsthreexhvfslpncbpqrqkz3k")
+["three", "3"]
+"3"
+"3"
+Ok(33)
+Ok("896")
+["8", "9", "6"]
+"8"
+"6"
+Ok(86)
+Ok("nrzpqk3fivesldclpcbfmdtbbhpxonethreeeightwor")
+["3", "five", "one", "three", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("7cnn871")
+["7", "8", "7", "1"]
+"7"
+"1"
+Ok(71)
+Ok("sevenfgnc58lllvzfmnfqsshvjhqpgvx")
+["seven", "5", "8"]
+"7"
+"8"
+Ok(78)
+Ok("6hfrhvklvpp")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("onekcrcpsjtsndskmbtvmcd1seven")
+["one", "1", "seven"]
+"1"
+"7"
+Ok(17)
+Ok("6twoeight5vmdgvhhjsqfourjkns6")
+["6", "two", "eight", "5", "four", "6"]
+"6"
+"6"
+Ok(66)
+Ok("zlgseven3sevenbfgzgpbmhlbtx6fqpb")
+["seven", "3", "seven", "6"]
+"7"
+"6"
+Ok(76)
+Ok("7pone828")
+["7", "one", "8", "2", "8"]
+"7"
+"8"
+Ok(78)
+Ok("vc7cjzjc94")
+["7", "9", "4"]
+"7"
+"4"
+Ok(74)
+Ok("pmmzhthree36twofour4")
+["three", "3", "6", "two", "four", "4"]
+"3"
+"4"
+Ok(34)
+Ok("q5onesqltxfourkxx8")
+["5", "one", "four", "8"]
+"5"
+"8"
+Ok(58)
+Ok("fivedsvbdtqkrzssix2six")
+["five", "six", "2", "six"]
+"5"
+"6"
+Ok(56)
+Ok("sevenone2four4pmn")
+["seven", "one", "2", "four", "4"]
+"7"
+"4"
+Ok(74)
+Ok("fivesseven47lndonesevenvfdvkp")
+["five", "seven", "4", "7", "one", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("vfxzlzvt7")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("hcqf179")
+["1", "7", "9"]
+"1"
+"9"
+Ok(19)
+Ok("6eight3")
+["6", "eight", "3"]
+"6"
+"3"
+Ok(63)
+Ok("hmftwone37dzbmone")
+["two", "3", "7", "one"]
+"2"
+"1"
+Ok(21)
+Ok("qonehzfj4")
+["one", "4"]
+"1"
+"4"
+Ok(14)
+Ok("eightonesix7")
+["eight", "one", "six", "7"]
+"8"
+"7"
+Ok(87)
+Ok("6pfournine")
+["6", "four", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("onefivehdt88five")
+["one", "five", "8", "8", "five"]
+"1"
+"5"
+Ok(15)
+Ok("three2eighttwosix971")
+["three", "2", "eight", "two", "six", "9", "7", "1"]
+"3"
+"1"
+Ok(31)
+Ok("xxtffpnkd6mxsjmhbgp2four")
+["6", "2", "four"]
+"6"
+"4"
+Ok(64)
+Ok("foursixmxrsmvhrx97")
+["four", "six", "9", "7"]
+"4"
+"7"
+Ok(47)
+Ok("dqkc9njlxh")
+["9"]
+"9"
+"9"
+Ok(99)
+Ok("nine2fivexjvsmthree")
+["nine", "2", "five", "three"]
+"9"
+"3"
+Ok(93)
+Ok("2597frctprbrsix7nbcnktxpdz")
+["2", "5", "9", "7", "six", "7"]
+"2"
+"7"
+Ok(27)
+Ok("6vvtlzd29ftgmjbjjpscbvkcmfzpcj")
+["6", "2", "9"]
+"6"
+"9"
+Ok(69)
+Ok("bpmnr2kpdsxseven")
+["2", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("twofoursix7seveneight")
+["two", "four", "six", "7", "seven", "eight"]
+"2"
+"8"
+Ok(28)
+Ok("trcfdlp5qnxmdeightqmzd")
+["5", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("seventwo7blpfqnsqjrbgzxvzxfourdtstcrv")
+["seven", "two", "7", "four"]
+"7"
+"4"
+Ok(74)
+Ok("z54five")
+["5", "4", "five"]
+"5"
+"5"
+Ok(55)
+Ok("llrjhdptlrzzjngrqvksbrmhttwoqfmlntj8")
+["two", "8"]
+"2"
+"8"
+Ok(28)
+Ok("fhthpcrrthreethree7fourfour2")
+["three", "three", "7", "four", "four", "2"]
+"3"
+"2"
+Ok(32)
+Ok("sixfzgnfour81threepdpsix")
+["six", "four", "8", "1", "three", "six"]
+"6"
+"6"
+Ok(66)
+Ok("3ddxksjkcxltxgr5one7eight")
+["3", "5", "one", "7", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("6tskvfz")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("1twobsdnmmvzz4three")
+["1", "two", "4", "three"]
+"1"
+"3"
+Ok(13)
+Ok("15ljtrqkh7xmqbmbn")
+["1", "5", "7"]
+"1"
+"7"
+Ok(17)
+Ok("22threenine2fkpzshztdhmdcxdz2")
+["2", "2", "three", "nine", "2", "2"]
+"2"
+"2"
+Ok(22)
+Ok("9seven12six")
+["9", "seven", "1", "2", "six"]
+"9"
+"6"
+Ok(96)
+Ok("9ninethreesbqcjqvx")
+["9", "nine", "three"]
+"9"
+"3"
+Ok(93)
+Ok("133bphdqcsdlbgmhjqkhdnvtgvfive")
+["1", "3", "3", "five"]
+"1"
+"5"
+Ok(15)
+Ok("1ninezkvjfmmttvldxq")
+["1", "nine"]
+"1"
+"9"
+Ok(19)
+Ok("fourxqjxmjvb7")
+["four", "7"]
+"4"
+"7"
+Ok(47)
+Ok("foureightthree4")
+["four", "eight", "three", "4"]
+"4"
+"4"
+Ok(44)
+Ok("6one8")
+["6", "one", "8"]
+"6"
+"8"
+Ok(68)
+Ok("two2twothreervhzqnl")
+["two", "2", "two", "three"]
+"2"
+"3"
+Ok(23)
+Ok("3ninesixsixtwo7sixeightone")
+["3", "nine", "six", "six", "two", "7", "six", "eight", "one"]
+"3"
+"1"
+Ok(31)
+Ok("nineninenine6ps3fourmhkspqqz")
+["nine", "nine", "nine", "6", "3", "four"]
+"9"
+"4"
+Ok(94)
+Ok("bklcqxggmp9ktzvmlvmmeight18")
+["9", "eight", "1", "8"]
+"9"
+"8"
+Ok(98)
+Ok("1onesix2eightnd89szcklv")
+["1", "one", "six", "2", "eight", "8", "9"]
+"1"
+"9"
+Ok(19)
+Ok("pttqvhsdxp28htkfttpnfourseven")
+["2", "8", "four", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("5eight9xjgzrxqskttjhcb8ghlxjhfourht")
+["5", "eight", "9", "8", "four"]
+"5"
+"4"
+Ok(54)
+Ok("eight2l714")
+["eight", "2", "7", "1", "4"]
+"8"
+"4"
+Ok(84)
+Ok("9xcqnbfive6fivethree32")
+["9", "five", "6", "five", "three", "3", "2"]
+"9"
+"2"
+Ok(92)
+Ok("zgmbvjtwoone4")
+["two", "one", "4"]
+"2"
+"4"
+Ok(24)
+Ok("rvxfrdhqq4sbsnlrslh")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("ninethree9two")
+["nine", "three", "9", "two"]
+"9"
+"2"
+Ok(92)
+Ok("6sevenmdvsdqxt3vnzdgninejkdjmzngckfcdh9")
+["6", "seven", "3", "nine", "9"]
+"6"
+"9"
+Ok(69)
+Ok("jskmdkhhn443onefjdrhqn")
+["4", "4", "3", "one"]
+"4"
+"1"
+Ok(41)
+Ok("2cnkvbd")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("seven5rh6eightmcpkvcdrcfivexntt")
+["seven", "5", "6", "eight", "five"]
+"7"
+"5"
+Ok(75)
+Ok("eight1gqtnkdmvsglvkone87")
+["eight", "1", "one", "8", "7"]
+"8"
+"7"
+Ok(87)
+Ok("four8six")
+["four", "8", "six"]
+"4"
+"6"
+Ok(46)
+Ok("67ninecvqcpxpfqphx")
+["6", "7", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("3schxdptgtgfjdbsffxg8xmhxvmrnvfive")
+["3", "8", "five"]
+"3"
+"5"
+Ok(35)
+Ok("mlxqgftbrkvgkczkone65two7")
+["one", "6", "5", "two", "7"]
+"1"
+"7"
+Ok(17)
+Ok("jzrttfghtqonezjpbxds3fiveninevppqqqc")
+["one", "3", "five", "nine"]
+"1"
+"9"
+Ok(19)
+Ok("4sevenjqbnpjlhj")
+["4", "seven"]
+"4"
+"7"
+Ok(47)
+Ok("4573one")
+["4", "5", "7", "3", "one"]
+"4"
+"1"
+Ok(41)
+Ok("eightclqsjjjss6")
+["eight", "6"]
+"8"
+"6"
+Ok(86)
+Ok("one5sr3klmrccnrhd8")
+["one", "5", "3", "8"]
+"1"
+"8"
+Ok(18)
+Ok("jczvxzbvvctxdzmcg3sixtwotfvkcl9jqffdh")
+["3", "six", "two", "9"]
+"3"
+"9"
+Ok(39)
+Ok("cjtslmnine8six")
+["nine", "8", "six"]
+"9"
+"6"
+Ok(96)
+Ok("rrzktthree3two6eight")
+["three", "3", "two", "6", "eight"]
+"3"
+"8"
+Ok(38)
+Ok("sgeightone23five6ninekstjcksnst")
+["eight", "one", "2", "3", "five", "6", "nine"]
+"8"
+"9"
+Ok(89)
+Ok("6nhkdjm2fouronehrnd73")
+["6", "2", "four", "one", "7", "3"]
+"6"
+"3"
+Ok(63)
+Ok("two56six")
+["two", "5", "6", "six"]
+"2"
+"6"
+Ok(26)
+Ok("6six2xmczcgbpj3")
+["6", "six", "2", "3"]
+"6"
+"3"
+Ok(63)
+Ok("fivevdhnpjxcgrmc963")
+["five", "9", "6", "3"]
+"5"
+"3"
+Ok(53)
+Ok("6746rrplshznckgxrksgczqthree55")
+["6", "7", "4", "6", "three", "5", "5"]
+"6"
+"5"
+Ok(65)
+Ok("onehxkrhhkczt2pxsfvlgthree")
+["one", "2", "three"]
+"1"
+"3"
+Ok(13)
+Ok("9threelgbzzjxzfsjrmvnvcsqffour")
+["9", "three", "four"]
+"9"
+"4"
+Ok(94)
+Ok("nine7gfivefoureightsix1")
+["nine", "7", "five", "four", "eight", "six", "1"]
+"9"
+"1"
+Ok(91)
+Ok("3seventwoseventcbsixllmhlmjbtqtfpfrjqbghd")
+["3", "seven", "two", "seven", "six"]
+"3"
+"6"
+Ok(36)
+Ok("1eightzdskcnhbm")
+["1", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("rlccvmpnzfoursix9")
+["four", "six", "9"]
+"4"
+"9"
+Ok(49)
+Ok("nine2xbmfourfourzncxtjgkn1")
+["nine", "2", "four", "four", "1"]
+"9"
+"1"
+Ok(91)
+Ok("1264cfmm")
+["1", "2", "6", "4"]
+"1"
+"4"
+Ok(14)
+Ok("smntmjr53sevenmjghvnvhgrhxq6")
+["5", "3", "seven", "6"]
+"5"
+"6"
+Ok(56)
+Ok("7szrqhlmjkfqspnvseven")
+["7", "seven"]
+"7"
+"7"
+Ok(77)
+Ok("29krc")
+["2", "9"]
+"2"
+"9"
+Ok(29)
+Ok("hpj37eightgfzsl95gdcdbtsxqh")
+["3", "7", "eight", "9", "5"]
+"3"
+"5"
+Ok(35)
+Ok("xcv736")
+["7", "3", "6"]
+"7"
+"6"
+Ok(76)
+Ok("eight3fourhtb43")
+["eight", "3", "four", "4", "3"]
+"8"
+"3"
+Ok(83)
+Ok("threethree967rlpk4nine")
+["three", "three", "9", "6", "7", "4", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("seven2931nhxpkppdv445")
+["seven", "2", "9", "3", "1", "4", "4", "5"]
+"7"
+"5"
+Ok(75)
+Ok("3eight5hvlxjspmsdfivedrfsmvzr")
+["3", "eight", "5", "five"]
+"3"
+"5"
+Ok(35)
+Ok("zgvvcpthree83twofcvqnine")
+["three", "8", "3", "two", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("seventwo2bgxcnbmzone")
+["seven", "two", "2", "one"]
+"7"
+"1"
+Ok(71)
+Ok("threesix5tfthree862")
+["three", "six", "5", "three", "8", "6", "2"]
+"3"
+"2"
+Ok(32)
+Ok("8brzvkxz")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("713srdjqdnbbrvxhn4")
+["7", "1", "3", "4"]
+"7"
+"4"
+Ok(74)
+Ok("3t7fourtwoeightmjqqjbknp8")
+["3", "7", "four", "two", "eight", "8"]
+"3"
+"8"
+Ok(38)
+Ok("btltwonefour2rjmfmlsbmdfp")
+["two", "four", "2"]
+"2"
+"2"
+Ok(22)
+Ok("8sixthree1")
+["8", "six", "three", "1"]
+"8"
+"1"
+Ok(81)
+Ok("fourthree3sixhphctrfiveonesix")
+["four", "three", "3", "six", "five", "one", "six"]
+"4"
+"6"
+Ok(46)
+Ok("eight11fivesix")
+["eight", "1", "1", "five", "six"]
+"8"
+"6"
+Ok(86)
+Ok("ppltwonepcmjdmtc2sixjpqnvpczbmtplqcsz")
+["two", "2", "six"]
+"2"
+"6"
+Ok(26)
+Ok("pfn2")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("pfvqrm54mhvzmqmgtwoneckj")
+["5", "4", "two"]
+"5"
+"2"
+Ok(52)
+Ok("rpsevendfv2onethree")
+["seven", "2", "one", "three"]
+"7"
+"3"
+Ok(73)
+Ok("46hrhrkkpp74threesix")
+["4", "6", "7", "4", "three", "six"]
+"4"
+"6"
+Ok(46)
+Ok("fsrr8")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("7twofourfourcpcbfourfivenine")
+["7", "two", "four", "four", "four", "five", "nine"]
+"7"
+"9"
+Ok(79)
+Ok("onethreefive71rfhmtlzb72hzhl")
+["one", "three", "five", "7", "1", "7", "2"]
+"1"
+"2"
+Ok(12)
+Ok("t71three6hdrnfour")
+["7", "1", "three", "6", "four"]
+"7"
+"4"
+Ok(74)
+Ok("llmdhfeight9")
+["eight", "9"]
+"8"
+"9"
+Ok(89)
+Ok("lgzxltwo3twoktxdltzqv")
+["two", "3", "two"]
+"2"
+"2"
+Ok(22)
+Ok("sixhlmbbzlqflq4mlsevenmsdsfqsqvnine")
+["six", "4", "seven", "nine"]
+"6"
+"9"
+Ok(69)
+Ok("3lpsltdnine")
+["3", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("three1sixfour2")
+["three", "1", "six", "four", "2"]
+"3"
+"2"
+Ok(32)
+Ok("3sixgcdf1")
+["3", "six", "1"]
+"3"
+"1"
+Ok(31)
+Ok("four21")
+["four", "2", "1"]
+"4"
+"1"
+Ok(41)
+Ok("84foursixclbmxpctn1bjsl")
+["8", "4", "four", "six", "1"]
+"8"
+"1"
+Ok(81)
+Ok("brsxfkdp4xzvggqbqtxsx6threethree")
+["4", "6", "three", "three"]
+"4"
+"3"
+Ok(43)
+Ok("vccz3threetwoone59")
+["3", "three", "two", "one", "5", "9"]
+"3"
+"9"
+Ok(39)
+Ok("sixjmpdtc1")
+["six", "1"]
+"6"
+"1"
+Ok(61)
+Ok("tjshpfbvmllqfiveeightfzvdjsczqxg2")
+["five", "eight", "2"]
+"5"
+"2"
+Ok(52)
+Ok("twolvzsmjjseven8")
+["two", "seven", "8"]
+"2"
+"8"
+Ok(28)
+Ok("2vnbbrtzts9mxzsllltone99jvsxkc6")
+["2", "9", "one", "9", "9", "6"]
+"2"
+"6"
+Ok(26)
+Ok("nine3qninesix")
+["nine", "3", "nine", "six"]
+"9"
+"6"
+Ok(96)
+Ok("8qdthreetch")
+["8", "three"]
+"8"
+"3"
+Ok(83)
+Ok("two1ktnbjxqsjsixonepljgnmrgnb")
+["two", "1", "six", "one"]
+"2"
+"1"
+Ok(21)
+Ok("one2one81tsvpvj85spn")
+["one", "2", "one", "8", "1", "8", "5"]
+"1"
+"5"
+Ok(15)
+Ok("31")
+["3", "1"]
+"3"
+"1"
+Ok(31)
+Ok("one2ninelzpone4")
+["one", "2", "nine", "one", "4"]
+"1"
+"4"
+Ok(14)
+Ok("twofourthreejgdbthree7three5two")
+["two", "four", "three", "three", "7", "three", "5", "two"]
+"2"
+"2"
+Ok(22)
+Ok("2316fslp5")
+["2", "3", "1", "6", "5"]
+"2"
+"5"
+Ok(25)
+Ok("threettcdspbsix3three2mpkxzspltr")
+["three", "six", "3", "three", "2"]
+"3"
+"2"
+Ok(32)
+Ok("5sevenblffmddx5xmqcbdrxvhmqtwo")
+["5", "seven", "5", "two"]
+"5"
+"2"
+Ok(52)
+Ok("1threethreejxplkj")
+["1", "three", "three"]
+"1"
+"3"
+Ok(13)
+Ok("plqqpf3fhsgjclhg4sr")
+["3", "4"]
+"3"
+"4"
+Ok(34)
+Ok("fourone1fivefive1fourpdkjszpcsd")
+["four", "one", "1", "five", "five", "1", "four"]
+"4"
+"4"
+Ok(44)
+Ok("8lhthrsptzbgzllzkrhpqdbkfivedrrtk")
+["8", "five"]
+"8"
+"5"
+Ok(85)
+Ok("1ninefive2threevbflj")
+["1", "nine", "five", "2", "three"]
+"1"
+"3"
+Ok(13)
+Ok("4sixfiveeighttwo3threefive")
+["4", "six", "five", "eight", "two", "3", "three", "five"]
+"4"
+"5"
+Ok(45)
+Ok("qvcxfrjgm6threetwoeighttwoneg")
+["6", "three", "two", "eight", "two"]
+"6"
+"2"
+Ok(62)
+Ok("2bhfpjnxbttwottrvdmpssgjjvqjhkdskmxjqone")
+["2", "two", "one"]
+"2"
+"1"
+Ok(21)
+Ok("18czsfmq")
+["1", "8"]
+"1"
+"8"
+Ok(18)
+Ok("58dlqninerqt4pdjzktspssixlgdxrddt")
+["5", "8", "nine", "4", "six"]
+"5"
+"6"
+Ok(56)
+Ok("3sevenrcsqtmfrhk694")
+["3", "seven", "6", "9", "4"]
+"3"
+"4"
+Ok(34)
+Ok("93ninevttdgh")
+["9", "3", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("2dxsmtnnqseventwo")
+["2", "seven", "two"]
+"2"
+"2"
+Ok(22)
+Ok("onenrdfhqg3six")
+["one", "3", "six"]
+"1"
+"6"
+Ok(16)
+Ok("jfjeightwobstfsln8dvvdmgdhgxx1one7nine")
+["eight", "8", "1", "one", "7", "nine"]
+"8"
+"9"
+Ok(89)
+Ok("fndrpmkpbtqgk7six8nhfpnv4hfvcjnjh")
+["7", "six", "8", "4"]
+"7"
+"4"
+Ok(74)
+Ok("3hxtvzbhqbhkrtqmphfivej2")
+["3", "five", "2"]
+"3"
+"2"
+Ok(32)
+Ok("seven818")
+["seven", "8", "1", "8"]
+"7"
+"8"
+Ok(78)
+Ok("czgrscnine3")
+["nine", "3"]
+"9"
+"3"
+Ok(93)
+Ok("3pltt62three5seven")
+["3", "6", "2", "three", "5", "seven"]
+"3"
+"7"
+Ok(37)
+Ok("2mvmpqrgdm5")
+["2", "5"]
+"2"
+"5"
+Ok(25)
+Ok("six52three1sixthreeeight9")
+["six", "5", "2", "three", "1", "six", "three", "eight", "9"]
+"6"
+"9"
+Ok(69)
+Ok("onecbshrmsrpjlkkrrnine7mvx")
+["one", "nine", "7"]
+"1"
+"7"
+Ok(17)
+Ok("five34")
+["five", "3", "4"]
+"5"
+"4"
+Ok(54)
+Ok("sixjlfsixone9nnzhkvldeightfourpbf")
+["six", "six", "one", "9", "eight", "four"]
+"6"
+"4"
+Ok(64)
+Ok("four47nine7")
+["four", "4", "7", "nine", "7"]
+"4"
+"7"
+Ok(47)
+Ok("three462fivefour6")
+["three", "4", "6", "2", "five", "four", "6"]
+"3"
+"6"
+Ok(36)
+Ok("nsixonefivefive6twochreight")
+["six", "one", "five", "five", "6", "two", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("9twofourppg9three")
+["9", "two", "four", "9", "three"]
+"9"
+"3"
+Ok(93)
+Ok("lcpggjmppmnkktfvszbl7qmxqrseven")
+["7", "seven"]
+"7"
+"7"
+Ok(77)
+Ok("ztwotwothreekdftqtqmpeightznhnine7")
+["two", "two", "three", "eight", "nine", "7"]
+"2"
+"7"
+Ok(27)
+Ok("bptgpcxxknsgxbznnxzhnzx59rvsj")
+["5", "9"]
+"5"
+"9"
+Ok(59)
+Ok("8ntnpqdlkfctckk7qbcfiveone")
+["8", "7", "five", "one"]
+"8"
+"1"
+Ok(81)
+Ok("1cvhlrj5five22vrpphp1")
+["1", "5", "five", "2", "2", "1"]
+"1"
+"1"
+Ok(11)
+Ok("m9bbpngzzrsix")
+["9", "six"]
+"9"
+"6"
+Ok(96)
+Ok("hbflvlnzln9xhfdsfqqxvnzdpzeight")
+["9", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("22sixfive1fourbpncphnnkrlzxz")
+["2", "2", "six", "five", "1", "four"]
+"2"
+"4"
+Ok(24)
+Ok("three8fivecnvgtnpmfkzggttcjonerxq")
+["three", "8", "five", "one"]
+"3"
+"1"
+Ok(31)
+Ok("qrfksfzjvseven6xqsmdr3two3svdjjb")
+["seven", "6", "3", "two", "3"]
+"7"
+"3"
+Ok(73)
+Ok("48xxtqpnxthmjbzldrv")
+["4", "8"]
+"4"
+"8"
+Ok(48)
+Ok("gblqlbb9rzfnr")
+["9"]
+"9"
+"9"
+Ok(99)
+Ok("onehc78sixsevenonepfchbfmgzp")
+["one", "7", "8", "six", "seven", "one"]
+"1"
+"1"
+Ok(11)
+Ok("lptwonefiveb1131")
+["two", "five", "1", "1", "3", "1"]
+"2"
+"1"
+Ok(21)
+Ok("lzcbfourh9qvtsggsthreejnjjnmtf")
+["four", "9", "three"]
+"4"
+"3"
+Ok(43)
+Ok("1shljseven")
+["1", "seven"]
+"1"
+"7"
+Ok(17)
+Ok("1gdghnzhqlseveneightsixsevenmblqvjpxd8twonejm")
+["1", "seven", "eight", "six", "seven", "8", "two"]
+"1"
+"2"
+Ok(12)
+Ok("mzfgmtndztwo3xlvxdcsseven")
+["two", "3", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("59hvnjvjgxxtljdsgrjjpzcmxgninenineone")
+["5", "9", "nine", "nine", "one"]
+"5"
+"1"
+Ok(51)
+Ok("fivetwothreemdjcsevenkcljqpktwo9")
+["five", "two", "three", "seven", "two", "9"]
+"5"
+"9"
+Ok(59)
+Ok("toneightonelb4threetmldjmvjlfrnmkeightctjxdqhrcjczcr")
+["one", "one", "4", "three", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("six4jnlftktspjthree23seven1xfbrkh")
+["six", "4", "three", "2", "3", "seven", "1"]
+"6"
+"1"
+Ok(61)
+Ok("fourtwo7fourqzmcrseven4")
+["four", "two", "7", "four", "seven", "4"]
+"4"
+"4"
+Ok(44)
+Ok("clrgvbgcbb1twonekgr")
+["1", "two"]
+"1"
+"2"
+Ok(12)
+Ok("9one9hbdmnzldksix")
+["9", "one", "9", "six"]
+"9"
+"6"
+Ok(96)
+Ok("three161vfrdvbh7seventwo")
+["three", "1", "6", "1", "7", "seven", "two"]
+"3"
+"2"
+Ok(32)
+Ok("28rxckppjhxn139sevensixmd")
+["2", "8", "1", "3", "9", "seven", "six"]
+"2"
+"6"
+Ok(26)
+Ok("sevenfive5twobdxhzseventlf")
+["seven", "five", "5", "two", "seven"]
+"7"
+"7"
+Ok(77)
+Ok("xm48781four")
+["4", "8", "7", "8", "1", "four"]
+"4"
+"4"
+Ok(44)
+Ok("tdsqpmcfdjvqtzt56nzlbdrm")
+["5", "6"]
+"5"
+"6"
+Ok(56)
+Ok("fglpgdqonemsdljnq1")
+["one", "1"]
+"1"
+"1"
+Ok(11)
+Ok("5foursvgbnthn")
+["5", "four"]
+"5"
+"4"
+Ok(54)
+Ok("eight14dcvcvgrlkm")
+["eight", "1", "4"]
+"8"
+"4"
+Ok(84)
+Ok("nine8kxjvjskbvcdmmbsgcxpheighttwofour")
+["nine", "8", "eight", "two", "four"]
+"9"
+"4"
+Ok(94)
+Ok("knsplfsix6cqkhsevenlkknhdnvl3")
+["six", "6", "seven", "3"]
+"6"
+"3"
+Ok(63)
+Ok("eight47fnhssqvdt9vzkr8")
+["eight", "4", "7", "9", "8"]
+"8"
+"8"
+Ok(88)
+Ok("dcjx1rzxfk3seven1twovzcsddtckg8")
+["1", "3", "seven", "1", "two", "8"]
+"1"
+"8"
+Ok(18)
+Ok("1onecqxcszfqrcvm5lvpb42four")
+["1", "one", "5", "4", "2", "four"]
+"1"
+"4"
+Ok(14)
+Ok("sqclpndjgf7")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("kbxbhrgxsfbljnlbd1lflxpcm298")
+["1", "2", "9", "8"]
+"1"
+"8"
+Ok(18)
+Ok("nine1one")
+["nine", "1", "one"]
+"9"
+"1"
+Ok(91)
+Ok("nineseven1one")
+["nine", "seven", "1", "one"]
+"9"
+"1"
+Ok(91)
+Ok("9stlxptznqgcbjvdgt5ninesevenlkxsix")
+["9", "5", "nine", "seven", "six"]
+"9"
+"6"
+Ok(96)
+Ok("xlhl2nine5")
+["2", "nine", "5"]
+"2"
+"5"
+Ok(25)
+Ok("jqpx1gbxrtdv3")
+["1", "3"]
+"1"
+"3"
+Ok(13)
+Ok("981six")
+["9", "8", "1", "six"]
+"9"
+"6"
+Ok(96)
+Ok("f795bkkjmmddhvm")
+["7", "9", "5"]
+"7"
+"5"
+Ok(75)
+Ok("2ninexblcgmhxxceightwop")
+["2", "nine", "eight"]
+"2"
+"8"
+Ok(28)
+Ok("twoxkmb9fvmvljzjd")
+["two", "9"]
+"2"
+"9"
+Ok(29)
+Ok("3pgdsc2onestzh")
+["3", "2", "one"]
+"3"
+"1"
+Ok(31)
+Ok("zpmmdf912three")
+["9", "1", "2", "three"]
+"9"
+"3"
+Ok(93)
+Ok("9fivedvn")
+["9", "five"]
+"9"
+"5"
+Ok(95)
+Ok("five23five3")
+["five", "2", "3", "five", "3"]
+"5"
+"3"
+Ok(53)
+Ok("sixonexxgxdqjsfmeighteight2three")
+["six", "one", "eight", "eight", "2", "three"]
+"6"
+"3"
+Ok(63)
+Ok("4eightxbss4twotwo")
+["4", "eight", "4", "two", "two"]
+"4"
+"2"
+Ok(42)
+Ok("six8mcbl5shdgpglbdrn")
+["six", "8", "5"]
+"6"
+"5"
+Ok(65)
+Ok("4sixthree7sevensevennine")
+["4", "six", "three", "7", "seven", "seven", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("7pknqttzlxfive4")
+["7", "five", "4"]
+"7"
+"4"
+Ok(74)
+Ok("nineeighttwotwodbdjonethree3hp")
+["nine", "eight", "two", "two", "one", "three", "3"]
+"9"
+"3"
+Ok(93)
+Ok("3972oneeight7")
+["3", "9", "7", "2", "one", "eight", "7"]
+"3"
+"7"
+Ok(37)
+Ok("tbsqftsbnhbgljmjmk12pmpfplhqb8x")
+["1", "2", "8"]
+"1"
+"8"
+Ok(18)
+Ok("sevenfivesdrsevenfourfive5qfvqsxeight")
+["seven", "five", "seven", "four", "five", "5", "eight"]
+"7"
+"8"
+Ok(78)
+Ok("lxvfv366one3tvlcbfhone")
+["3", "6", "6", "one", "3", "one"]
+"3"
+"1"
+Ok(31)
+Ok("4vqlcfnineghvkfm")
+["4", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("qdhfqqeightone3595one8eightwov")
+["eight", "one", "3", "5", "9", "5", "one", "8", "eight"]
+"8"
+"8"
+Ok(88)
+Ok("rfsdbjkk48xxeight")
+["4", "8", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("3fiverbspbvtpg3ninempxcrkfour")
+["3", "five", "3", "nine", "four"]
+"3"
+"4"
+Ok(34)
+Ok("37ninehnpdmdqcgvjfour9")
+["3", "7", "nine", "four", "9"]
+"3"
+"9"
+Ok(39)
+Ok("164two")
+["1", "6", "4", "two"]
+"1"
+"2"
+Ok(12)
+Ok("twoonetwoknlffnine4two")
+["two", "one", "two", "nine", "4", "two"]
+"2"
+"2"
+Ok(22)
+Ok("eightthree9zhtntdsf5mfsklckp")
+["eight", "three", "9", "5"]
+"8"
+"5"
+Ok(85)
+Ok("zrznzfxpmqfive4ppjkjninetwo6seven")
+["five", "4", "nine", "two", "6", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("9tnztckdmqdmcthreejgxrlhmninermztwo")
+["9", "three", "nine", "two"]
+"9"
+"2"
+Ok(92)
+Ok("qoneightsixfoureighttwo2kjlpsf")
+["one", "six", "four", "eight", "two", "2"]
+"1"
+"2"
+Ok(12)
+Ok("fournine315fiveone3")
+["four", "nine", "3", "1", "5", "five", "one", "3"]
+"4"
+"3"
+Ok(43)
+Ok("hcrmlngq73eight39four5")
+["7", "3", "eight", "3", "9", "four", "5"]
+"7"
+"5"
+Ok(75)
+Ok("kqtmfsdfxhvhnsxmmbtbk7sixsixfive1xnb")
+["7", "six", "six", "five", "1"]
+"7"
+"1"
+Ok(71)
+Ok("three7eightnine")
+["three", "7", "eight", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("sixfivetwoeight14eighttszxffvhmrn")
+["six", "five", "two", "eight", "1", "4", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("7ctxfoursjqnghg5sixtwo")
+["7", "four", "5", "six", "two"]
+"7"
+"2"
+Ok(72)
+Ok("one4b8")
+["one", "4", "8"]
+"1"
+"8"
+Ok(18)
+Ok("123five8six")
+["1", "2", "3", "five", "8", "six"]
+"1"
+"6"
+Ok(16)
+Ok("two6seven7dplzhncqx")
+["two", "6", "seven", "7"]
+"2"
+"7"
+Ok(27)
+Ok("four7ninedqfplv7threenineseven")
+["four", "7", "nine", "7", "three", "nine", "seven"]
+"4"
+"7"
+Ok(47)
+Ok("sixdqjcllsgj28sixsbgcxbdkeightb")
+["six", "2", "8", "six", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("415kmxtvpdthree")
+["4", "1", "5", "three"]
+"4"
+"3"
+Ok(43)
+Ok("ninectmc3two")
+["nine", "3", "two"]
+"9"
+"2"
+Ok(92)
+Ok("fivefiveseven2two4")
+["five", "five", "seven", "2", "two", "4"]
+"5"
+"4"
+Ok(54)
+Ok("mvsg44fourrxsmdcxpbzslzdhbgqlxeight5")
+["4", "4", "four", "eight", "5"]
+"4"
+"5"
+Ok(45)
+Ok("bxtwoneone7bxxmeight7rp19")
+["two", "one", "7", "eight", "7", "1", "9"]
+"2"
+"9"
+Ok(29)
+Ok("sv2chpqrztht8eightfour8nine4")
+["2", "8", "eight", "four", "8", "nine", "4"]
+"2"
+"4"
+Ok(24)
+Ok("dxlgdfqvkdgvdxlcxkht9")
+["9"]
+"9"
+"9"
+Ok(99)
+Ok("sixeight6ffivethreesix")
+["six", "eight", "6", "five", "three", "six"]
+"6"
+"6"
+Ok(66)
+Ok("qjmprhcxdgvrrqdmlzbbpkns8nine")
+["8", "nine"]
+"8"
+"9"
+Ok(89)
+Ok("ninedltfrzpq8")
+["nine", "8"]
+"9"
+"8"
+Ok(98)
+Ok("8rjqseven")
+["8", "seven"]
+"8"
+"7"
+Ok(87)
+Ok("273phmpjmf26clqgmckqrh")
+["2", "7", "3", "2", "6"]
+"2"
+"6"
+Ok(26)
+Ok("6dqbgzgqbgrhqqmmnjpmvsdbjxkgs")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("fvpvclz4msmtzdffplbhkpt311ss")
+["4", "3", "1", "1"]
+"4"
+"1"
+Ok(41)
+Ok("zrvhlnhfxnzthree7")
+["three", "7"]
+"3"
+"7"
+Ok(37)
+Ok("oneonezclqbxxd6ninesixthreefour2")
+["one", "one", "6", "nine", "six", "three", "four", "2"]
+"1"
+"2"
+Ok(12)
+Ok("q7vrltqqtkd9zmxdtcsrtwo")
+["7", "9", "two"]
+"7"
+"2"
+Ok(72)
+Ok("vpxl9zldgphfjk3hz4")
+["9", "3", "4"]
+"9"
+"4"
+Ok(94)
+Ok("clpllv8cmpgdvbfmp")
+["8"]
+"8"
+"8"
+Ok(88)
+Ok("7xxdlnfmseven475one")
+["7", "seven", "4", "7", "5", "one"]
+"7"
+"1"
+Ok(71)
+Ok("6cfgvvzbk863sixzlvv")
+["6", "8", "6", "3", "six"]
+"6"
+"6"
+Ok(66)
+Ok("25vxrseven")
+["2", "5", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("5eight4qbztpc3hbzvvpxscgcn5")
+["5", "eight", "4", "3", "5"]
+"5"
+"5"
+Ok(55)
+Ok("eight7bqqtbdqmnine16rh5")
+["eight", "7", "nine", "1", "6", "5"]
+"8"
+"5"
+Ok(85)
+Ok("threempjzsmbtj2")
+["three", "2"]
+"3"
+"2"
+Ok(32)
+Ok("nineseven76kdbff8")
+["nine", "seven", "7", "6", "8"]
+"9"
+"8"
+Ok(98)
+Ok("93twoeightwoff")
+["9", "3", "two", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("6threefiveone9")
+["6", "three", "five", "one", "9"]
+"6"
+"9"
+Ok(69)
+Ok("nmmzcpgnjnpzr6threeptconeonetwo")
+["6", "three", "one", "one", "two"]
+"6"
+"2"
+Ok(62)
+Ok("fivethreetwozmrcg5six6")
+["five", "three", "two", "5", "six", "6"]
+"5"
+"6"
+Ok(56)
+Ok("onesevengrcvnhdlfive5seven")
+["one", "seven", "five", "5", "seven"]
+"1"
+"7"
+Ok(17)
+Ok("fourfourvpm2lsixfive")
+["four", "four", "2", "six", "five"]
+"4"
+"5"
+Ok(45)
+Ok("2four2three")
+["2", "four", "2", "three"]
+"2"
+"3"
+Ok(23)
+Ok("seven88")
+["seven", "8", "8"]
+"7"
+"8"
+Ok(78)
+Ok("mcxsggtwo1eight5threezqvk21")
+["two", "1", "eight", "5", "three", "2", "1"]
+"2"
+"1"
+Ok(21)
+Ok("tjfmcvsbvcqch774two5")
+["7", "7", "4", "two", "5"]
+"7"
+"5"
+Ok(75)
+Ok("two51vgfzfszrrcqnggr")
+["two", "5", "1"]
+"2"
+"1"
+Ok(21)
+Ok("threemqkxvthree2")
+["three", "three", "2"]
+"3"
+"2"
+Ok(32)
+Ok("2jftwothreeseven68")
+["2", "two", "three", "seven", "6", "8"]
+"2"
+"8"
+Ok(28)
+Ok("rhjszm7brmnclrhxsrck")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("drhxztpvfp9eightxxsdsphrsix13")
+["9", "eight", "six", "1", "3"]
+"9"
+"3"
+Ok(93)
+Ok("6pldmbdxhgrqxd7")
+["6", "7"]
+"6"
+"7"
+Ok(67)
+Ok("sixxlstqkx9bltfnktdrkeight")
+["six", "9", "eight"]
+"6"
+"8"
+Ok(68)
+Ok("vzhpgmtmk5five885jvdxkvmb")
+["5", "five", "8", "8", "5"]
+"5"
+"5"
+Ok(55)
+Ok("fivetnldpkbnqrptone94four")
+["five", "one", "9", "4", "four"]
+"5"
+"4"
+Ok(54)
+Ok("3zqtwo8")
+["3", "two", "8"]
+"3"
+"8"
+Ok(38)
+Ok("zshvvcjtvbmjpqgljfivebrcsl2six")
+["five", "2", "six"]
+"5"
+"6"
+Ok(56)
+Ok("ninecv2dlhgzteight2")
+["nine", "2", "eight", "2"]
+"9"
+"2"
+Ok(92)
+Ok("dhlfdgbgheightqdzk1two5zbggf")
+["eight", "1", "two", "5"]
+"8"
+"5"
+Ok(85)
+Ok("eight2t7")
+["eight", "2", "7"]
+"8"
+"7"
+Ok(87)
+Ok("4nqbjfxtklzfour3")
+["4", "four", "3"]
+"4"
+"3"
+Ok(43)
+Ok("8qrdzcphsvndbszdnbcndfszrhmvzcszzsgshml2zgbgjx")
+["8", "2"]
+"8"
+"2"
+Ok(82)
+Ok("nineqttcd4five4gfjlgktkdlrmctv7")
+["nine", "4", "five", "4", "7"]
+"9"
+"7"
+Ok(97)
+Ok("nine4xfgmfvgg")
+["nine", "4"]
+"9"
+"4"
+Ok(94)
+Ok("3mtmhkcsixbbpvzgnklmdxvkrninezlnrds")
+["3", "six", "nine"]
+"3"
+"9"
+Ok(39)
+Ok("txsmflhl7qqlcbn47")
+["7", "4", "7"]
+"7"
+"7"
+Ok(77)
+Ok("six4kvvfour88cfmzds")
+["six", "4", "four", "8", "8"]
+"6"
+"8"
+Ok(68)
+Ok("3sgfourbphmcvxfqqzgfthgnhf6")
+["3", "four", "6"]
+"3"
+"6"
+Ok(36)
+Ok("3fqgdnqtwoeightlzplmjlptzkfour")
+["3", "two", "eight", "four"]
+"3"
+"4"
+Ok(34)
+Ok("9fivenj9sixgtmghntstjp")
+["9", "five", "9", "six"]
+"9"
+"6"
+Ok(96)
+Ok("794jljzxngthreeknjkv9")
+["7", "9", "4", "three", "9"]
+"7"
+"9"
+Ok(79)
+Ok("513five")
+["5", "1", "3", "five"]
+"5"
+"5"
+Ok(55)
+Ok("ssix8three1twofivegk")
+["six", "8", "three", "1", "two", "five"]
+"6"
+"5"
+Ok(65)
+Ok("ninethreeeight4vfqbgbxf5")
+["nine", "three", "eight", "4", "5"]
+"9"
+"5"
+Ok(95)
+Ok("sgxldeight9")
+["eight", "9"]
+"8"
+"9"
+Ok(89)
+Ok("six189")
+["six", "1", "8", "9"]
+"6"
+"9"
+Ok(69)
+Ok("vdcsbmmcvbfqtgqgfoureight6gdsznd6")
+["four", "eight", "6", "6"]
+"4"
+"6"
+Ok(46)
+Ok("p6")
+["6"]
+"6"
+"6"
+Ok(66)
+Ok("58ckjgkrstcgtfm3seven")
+["5", "8", "3", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("367")
+["3", "6", "7"]
+"3"
+"7"
+Ok(37)
+Ok("shlnlp9sixvvbctrkqd75fournine")
+["9", "six", "7", "5", "four", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("mqltnzcrqmljgmseven3bqqhhjncnmtwotklrtxgbcn")
+["seven", "3", "two"]
+"7"
+"2"
+Ok(72)
+Ok("8fdgshseveneightthree1fourkp")
+["8", "seven", "eight", "three", "1", "four"]
+"8"
+"4"
+Ok(84)
+Ok("8sevendsmpshkthreetwoztwo1qtpdxr")
+["8", "seven", "three", "two", "two", "1"]
+"8"
+"1"
+Ok(81)
+Ok("mfive97xs")
+["five", "9", "7"]
+"5"
+"7"
+Ok(57)
+Ok("xdfourmvtxt3twofivenhtznksix")
+["four", "3", "two", "five", "six"]
+"4"
+"6"
+Ok(46)
+Ok("one56ncxzxdfv")
+["one", "5", "6"]
+"1"
+"6"
+Ok(16)
+Ok("sevenklqngxp27jmjpbdsskz")
+["seven", "2", "7"]
+"7"
+"7"
+Ok(77)
+Ok("43zlpqsjz51twogdmszvl7")
+["4", "3", "5", "1", "two", "7"]
+"4"
+"7"
+Ok(47)
+Ok("4v35q")
+["4", "3", "5"]
+"4"
+"5"
+Ok(45)
+Ok("mtwo98xxhxqshv1")
+["two", "9", "8", "1"]
+"2"
+"1"
+Ok(21)
+Ok("fivethreelcnhjcsr4tnbg")
+["five", "three", "4"]
+"5"
+"4"
+Ok(54)
+Ok("65r")
+["6", "5"]
+"6"
+"5"
+Ok(65)
+Ok("mhfxxgdbthreesix3rdpfksvpxqbjssqmksxbkqxk1")
+["three", "six", "3", "1"]
+"3"
+"1"
+Ok(31)
+Ok("mnthlsxffourfour6threezcqeightwosk")
+["four", "four", "6", "three", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("qjgr1")
+["1"]
+"1"
+"1"
+Ok(11)
+Ok("fourone7eightqhsrxpjxftwo3")
+["four", "one", "7", "eight", "two", "3"]
+"4"
+"3"
+Ok(43)
+Ok("gd7qlsjvps")
+["7"]
+"7"
+"7"
+Ok(77)
+Ok("one5rsevenonenine")
+["one", "5", "seven", "one", "nine"]
+"1"
+"9"
+Ok(19)
+Ok("eight95kzddddkmjfbhjtmgpccxqqfbszstxqlplmtbpthree")
+["eight", "9", "5", "three"]
+"8"
+"3"
+Ok(83)
+Ok("sixbddthree58")
+["six", "three", "5", "8"]
+"6"
+"8"
+Ok(68)
+Ok("xfoneight8sevenone3")
+["one", "8", "seven", "one", "3"]
+"1"
+"3"
+Ok(13)
+Ok("fqdhrvone92nine")
+["one", "9", "2", "nine"]
+"1"
+"9"
+Ok(19)
+Ok("ffhtwonesmcmlddsix15nineqgkgbgvnj")
+["two", "six", "1", "5", "nine"]
+"2"
+"9"
+Ok(29)
+Ok("pdnmmlxzk3814")
+["3", "8", "1", "4"]
+"3"
+"4"
+Ok(34)
+Ok("trsmkshtfeightnine5")
+["eight", "nine", "5"]
+"8"
+"5"
+Ok(85)
+Ok("hjqdjh65twoqrqcxseven97")
+["6", "5", "two", "seven", "9", "7"]
+"6"
+"7"
+Ok(67)
+Ok("66twoxdlmlqrhk7three")
+["6", "6", "two", "7", "three"]
+"6"
+"3"
+Ok(63)
+Ok("m841")
+["8", "4", "1"]
+"8"
+"1"
+Ok(81)
+Ok("lk4")
+["4"]
+"4"
+"4"
+Ok(44)
+Ok("591vqcqrdzsddl6")
+["5", "9", "1", "6"]
+"5"
+"6"
+Ok(56)
+Ok("jgvmbdflph5frnxkkdplseven")
+["5", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("fivebmjmlcs75seveneight")
+["five", "7", "5", "seven", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("fivefour9bcslbnr9fourtwotnzqshcvoneightnz")
+["five", "four", "9", "9", "four", "two", "one"]
+"5"
+"1"
+Ok(51)
+Ok("sevenxbqngpxmpqnxbdmxhsdkkdbb2")
+["seven", "2"]
+"7"
+"2"
+Ok(72)
+Ok("vxqeightwokkdsdcgq7fgjlbcnhlzgjxtcntx")
+["eight", "7"]
+"8"
+"7"
+Ok(87)
+Ok("7five4nine7twocbjsctoneeight")
+["7", "five", "4", "nine", "7", "two", "one", "eight"]
+"7"
+"8"
+Ok(78)
+Ok("fourfour5mqdqfbnineqvksvbtnfive")
+["four", "four", "5", "nine", "five"]
+"4"
+"5"
+Ok(45)
+Ok("67four4qrbddqcthree")
+["6", "7", "four", "4", "three"]
+"6"
+"3"
+Ok(63)
+Ok("28vxtbdcvqxrlrqm")
+["2", "8"]
+"2"
+"8"
+Ok(28)
+Ok("2nine4mltwospmqm6three")
+["2", "nine", "4", "two", "6", "three"]
+"2"
+"3"
+Ok(23)
+Ok("fmzgbtkbckmtk15seventwoone")
+["1", "5", "seven", "two", "one"]
+"1"
+"1"
+Ok(11)
+Ok("5bjnc")
+["5"]
+"5"
+"5"
+Ok(55)
+Ok("two9one5eighttsptkjflxfvzvp")
+["two", "9", "one", "5", "eight"]
+"2"
+"8"
+Ok(28)
+Ok("qcnlfjfpdgh8onestone")
+["8", "one", "one"]
+"8"
+"1"
+Ok(81)
+Ok("6kjbqqczjktsixk1p4gzjrcvc")
+["6", "six", "1", "4"]
+"6"
+"4"
+Ok(64)
+Ok("crdhznlrrc8qmrgpvlrd3573")
+["8", "3", "5", "7", "3"]
+"8"
+"3"
+Ok(83)
+Ok("five55twofiveqhxmlnlscs6")
+["five", "5", "5", "two", "five", "6"]
+"5"
+"6"
+Ok(56)
+Ok("onegrcxflkqb6fourtwochltwokpnxtxmzfive")
+["one", "6", "four", "two", "two", "five"]
+"1"
+"5"
+Ok(15)
+Ok("five6qcbjmffzktsmhzzdtnqkc")
+["five", "6"]
+"5"
+"6"
+Ok(56)
+Ok("919eight")
+["9", "1", "9", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("pboneightseven9rppzrmdrcfive75three")
+["one", "seven", "9", "five", "7", "5", "three"]
+"1"
+"3"
+Ok(13)
+Ok("gdjtsgbjzkgxbnzk9qpgblmqsmssvqzcpmffneight")
+["9", "eight"]
+"9"
+"8"
+Ok(98)
+Ok("vbfrxninetwofive123")
+["nine", "two", "five", "1", "2", "3"]
+"9"
+"3"
+Ok(93)
+Ok("foureightseven9two")
+["four", "eight", "seven", "9", "two"]
+"4"
+"2"
+Ok(42)
+Ok("53931sevenlcsxmlzthreelnsjtcm")
+["5", "3", "9", "3", "1", "seven", "three"]
+"5"
+"3"
+Ok(53)
+Ok("dphhkqnptwot2sk4")
+["two", "2", "4"]
+"2"
+"4"
+Ok(24)
+Ok("94fourpvfrtgrms")
+["9", "4", "four"]
+"9"
+"4"
+Ok(94)
+Ok("four2gxnc8x")
+["four", "2", "8"]
+"4"
+"8"
+Ok(48)
+Ok("nine9mkfljgc")
+["nine", "9"]
+"9"
+"9"
+Ok(99)
+Ok("eightmxj83sfr1")
+["eight", "8", "3", "1"]
+"8"
+"1"
+Ok(81)
+Ok("9qlldctxqttonejtsxhdzjf2nrpmvpgeightnine")
+["9", "one", "2", "eight", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("1threebjgpnsmltszbjmbvpctvljjzvbjb")
+["1", "three"]
+"1"
+"3"
+Ok(13)
+Ok("cgszmdlcssix56jphvdsbh5")
+["six", "5", "6", "5"]
+"6"
+"5"
+Ok(65)
+Ok("ljjlmxgtkrqpldbllmjsctfv1sevendgnx477")
+["1", "seven", "4", "7", "7"]
+"1"
+"7"
+Ok(17)
+Ok("94mlgfrfive3rlbv4nine")
+["9", "4", "five", "3", "4", "nine"]
+"9"
+"9"
+Ok(99)
+Ok("12tr3kcbtjxfxrsevendjrzgfqb7")
+["1", "2", "3", "seven", "7"]
+"1"
+"7"
+Ok(17)
+Ok("7tlsvjfive3")
+["7", "five", "3"]
+"7"
+"3"
+Ok(73)
+Ok("fourbgksix9lnine636")
+["four", "six", "9", "nine", "6", "3", "6"]
+"4"
+"6"
+Ok(46)
+Ok("rpvftxcnone2")
+["one", "2"]
+"1"
+"2"
+Ok(12)
+Ok("bjgtmdrgrrrpxndlmvmgl829428")
+["8", "2", "9", "4", "2", "8"]
+"8"
+"8"
+Ok(88)
+Ok("hfjjkjg1seveneightflkhhmmd")
+["1", "seven", "eight"]
+"1"
+"8"
+Ok(18)
+Ok("3one273")
+["3", "one", "2", "7", "3"]
+"3"
+"3"
+Ok(33)
+Ok("nkkxzlrkgfonesevenfour7twompjpqdsvpp")
+["one", "seven", "four", "7", "two"]
+"1"
+"2"
+Ok(12)
+Ok("qctwofive7flqqkmsqplbb7eight4")
+["two", "five", "7", "7", "eight", "4"]
+"2"
+"4"
+Ok(24)
+Ok("9bkshzspgz19vhmsseven")
+["9", "1", "9", "seven"]
+"9"
+"7"
+Ok(97)
+Ok("17eightthree4bq")
+["1", "7", "eight", "three", "4"]
+"1"
+"4"
+Ok(14)
+Ok("1three3")
+["1", "three", "3"]
+"1"
+"3"
+Ok(13)
+Ok("rdrxmvddjrdvmczg8fourxgskh4fourddcm")
+["8", "four", "4", "four"]
+"8"
+"4"
+Ok(84)
+Ok("eight85nineone6onehxfcqhdbb7")
+["eight", "8", "5", "nine", "one", "6", "one", "7"]
+"8"
+"7"
+Ok(87)
+Ok("5seven8threemvjsmmgmone2")
+["5", "seven", "8", "three", "one", "2"]
+"5"
+"2"
+Ok(52)
+Ok("7five7gfnnfbs4fourfive")
+["7", "five", "7", "4", "four", "five"]
+"7"
+"5"
+Ok(75)
+Ok("47vkfndgnlv16four")
+["4", "7", "1", "6", "four"]
+"4"
+"4"
+Ok(44)
+Ok("1mxdnp147ftrzv8")
+["1", "1", "4", "7", "8"]
+"1"
+"8"
+Ok(18)
+Ok("1svlfzctbrbjprkmpz4xtbccfxhnvfqmhzt68")
+["1", "4", "6", "8"]
+"1"
+"8"
+Ok(18)
+Ok("fourqsgxnxthreeeighttwo2seven1nine")
+["four", "three", "eight", "two", "2", "seven", "1", "nine"]
+"4"
+"9"
+Ok(49)
+Ok("57sixsix2sevenvkxrsevencmmgv")
+["5", "7", "six", "six", "2", "seven", "seven"]
+"5"
+"7"
+Ok(57)
+Ok("5jlkfmtwoseventhreeoneightbsr")
+["5", "two", "seven", "three", "one"]
+"5"
+"1"
+Ok(51)
+Ok("zpsevenfouronexftsphg731")
+["seven", "four", "one", "7", "3", "1"]
+"7"
+"1"
+Ok(71)
+Ok("15twosix774")
+["1", "5", "two", "six", "7", "7", "4"]
+"1"
+"4"
+Ok(14)
+Ok("bbpthreeonenpkknbxn2kdqbrbr")
+["three", "one", "2"]
+"3"
+"2"
+Ok(32)
+Ok("dc7mqnzhmtdfr18")
+["7", "1", "8"]
+"7"
+"8"
+Ok(78)
+Ok("fivefivethree75two7three")
+["five", "five", "three", "7", "5", "two", "7", "three"]
+"5"
+"3"
+Ok(53)
+Ok("lbqvxmgfivenine3ninefive1")
+["five", "nine", "3", "nine", "five", "1"]
+"5"
+"1"
+Ok(51)
+Ok("sgpnsmdqb5seven8eight")
+["5", "seven", "8", "eight"]
+"5"
+"8"
+Ok(58)
+Ok("hclzmmbt3gthnf")
+["3"]
+"3"
+"3"
+Ok(33)
+Ok("lpxtfzvs6twosevenfour1dxrdnkfive")
+["6", "two", "seven", "four", "1", "five"]
+"6"
+"5"
+Ok(65)
+Ok("onektc4three")
+["one", "4", "three"]
+"1"
+"3"
+Ok(13)
+Ok("337")
+["3", "3", "7"]
+"3"
+"7"
+Ok(37)
+Ok("nflntqzlcfourgbgkcldrvbx8five53")
+["four", "8", "five", "5", "3"]
+"4"
+"3"
+Ok(43)
+Ok("8nkmkssgmlgmxhvpdgjseven")
+["8", "seven"]
+"8"
+"7"
+Ok(87)
+Ok("nine78twohnthree9")
+["nine", "7", "8", "two", "three", "9"]
+"9"
+"9"
+Ok(99)
+Ok("9ninesixgtjqbksix392")
+["9", "nine", "six", "six", "3", "9", "2"]
+"9"
+"2"
+Ok(92)
+Ok("sevenonegfmlxzzrm35nt")
+["seven", "one", "3", "5"]
+"7"
+"5"
+Ok(75)
+Ok("xmmrcjtspfive8sixsixt1")
+["five", "8", "six", "six", "1"]
+"5"
+"1"
+Ok(51)
+Ok("tpbdxblvfqblcqndseventhree22")
+["seven", "three", "2", "2"]
+"7"
+"2"
+Ok(72)
+Ok("2shhzch")
+["2"]
+"2"
+"2"
+Ok(22)
+Ok("fourtwo5ssdmsn51eight")
+["four", "two", "5", "5", "1", "eight"]
+"4"
+"8"
+Ok(48)
+Ok("9rvxckfrrvsix")
+["9", "six"]
+"9"
+"6"
+Ok(96)
+Ok("tgfcgdm1qsx3four2eightcctqd1")
+["1", "3", "four", "2", "eight", "1"]
+"1"
+"1"
+Ok(11)
+Ok("kxqfltbrfhpkbsmtthreethreeone3")
+["three", "three", "one", "3"]
+"3"
+"3"
+Ok(33)
+Ok("zrxprsixfiveone8bvbdmxjzbmthree")
+["six", "five", "one", "8", "three"]
+"6"
+"3"
+Ok(63)
+Ok("fpqjfcpheight4twofive5kpcnntbnnq4tcfbkqh")
+["eight", "4", "two", "five", "5", "4"]
+"8"
+"4"
+Ok(84)
+Ok("bhjkzdmmrfivetsxlhthreeddchsix5")
+["five", "three", "six", "5"]
+"5"
+"5"
+Ok(55)
+Ok("5tck83cseven9nine")
+["5", "8", "3", "seven", "9", "nine"]
+"5"
+"9"
+Ok(59)
+Ok("two2three")
+["two", "2", "three"]
+"2"
+"3"
+Ok(23)
+Ok("6oneighthlf")
+["6", "one"]
+"6"
+"1"
+Ok(61)
+Ok("572hcvfdbgt9twoonechngccmqc")
+["5", "7", "2", "9", "two", "one"]
+"5"
+"1"
+Ok(51)
+Ok("74eightrvtconebgjbpnqlslcs")
+["7", "4", "eight", "one"]
+"7"
+"1"
+Ok(71)
+Ok("nbmntwolntd1zvzplfzthree11seven")
+["two", "1", "three", "1", "1", "seven"]
+"2"
+"7"
+Ok(27)
+Ok("kpzfgpxdonesix2fourninefourfour")
+["one", "six", "2", "four", "nine", "four", "four"]
+"1"
+"4"
+Ok(14)
+Ok("fbdqzbmjnkmqcgeight5five")
+["eight", "5", "five"]
+"8"
+"5"
+Ok(85)
+Ok("425six14two46")
+["4", "2", "5", "six", "1", "4", "two", "4", "6"]
+"4"
+"6"
+Ok(46)
+Ok("jhctmxconelfkgmprnfourseven8twofkjvlvnjgd")
+["one", "four", "seven", "8", "two"]
+"1"
+"2"
+Ok(12)
+Ok("twonrpvnnmvkh2threejzcpz")
+["two", "2", "three"]
+"2"
+"3"
+Ok(23)
+54871
