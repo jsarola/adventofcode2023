@@ -1,12 +1,12 @@
-use std::ops::Add;
 use std::fs::File;
 use std::io::{BufReader, BufRead, Error};
+use std::alloc;
 use regex::Regex;
 
 
 fn main() -> Result<(), Error> {
-    // let path = "day1/input-test.txt";
-    let path = "day1/input-test.txt";
+    let path = "day1/input-test-part-1.txt";
+    // let path = "day1/input.txt";
 
     let input = File::open(path)?;
     let buffered = BufReader::new(input);
@@ -53,8 +53,8 @@ fn main() -> Result<(), Error> {
 let re = Regex::new(r"[0-9]{1}|eight|one|two|three|four|five|six|seven|nine").unwrap();
 
 let mut sum_calibration: i32 = 0;
-//let path = "day1/input-test-part-2.txt";
-let path = "day1/input.txt";
+let path = "day1/input-test-part-2.txt";
+//let path = "day1/input.txt";
 
 let input = File::open(path)?;
 let buffered = BufReader::new(input);
@@ -75,9 +75,41 @@ fn change_number(numero: &str) -> &str {
 for line in buffered.lines() {
     println!("{:?}", line);
 
-    let cadena = line.unwrap(); 
+    // let cadena = line.unwrap(); 
     
-    let mut numeros: Vec<&str> = re.find_iter(&cadena).map(|m| m.as_str()).collect();
+    let mut cadena_buscar: String = line.unwrap();
+
+    let mut numeros = Vec::new();
+
+    
+
+    loop {
+        println!("1st Buscar {:?}", cadena_buscar);
+        let element = re.find(&cadena_buscar).unwrap();
+
+        if ! element.is_empty() { 
+            println!("Element trobat {:?}", element.as_str());
+            numeros.push(element.as_str());
+
+            let inici = element.start()+1;
+
+            /*
+            string té un problema perquè fa servir punters com C, i per tant no "matxaca" la posició
+            de memòria. 
+            */
+            let _cadena_nova: String = cadena_buscar.drain(inici..).collect();
+            
+
+            //println!("Nova {:?}", cadena_nova);
+            //let cadena_buscar = &cadena_nova.to_string();
+            println!("Buscar {:?}", cadena_buscar);
+           
+        } else {
+            break;
+        }
+    }
+
+    // let mut numeros: Vec<&str> = re.find_iter(&cadena).map(|m| m.as_str()).collect();
     
     println!("{:?}", numeros);
 
