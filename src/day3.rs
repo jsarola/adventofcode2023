@@ -3,18 +3,17 @@ use std::io::{BufReader, BufRead, Error};
 use regex::Regex;
 
 
-// const MAX_ROW: usize = 10;
-// const MAX_COLUMN: usize = 10;
-// const PATH = "day3/input-test-part-1.txt";
+const MAX_ROW: usize = 10;
+const MAX_COLUMN: usize = 10;
+const PATH: &str = "day3/input-test-part-1.txt";
 
-const MAX_ROW: usize = 140;
-const MAX_COLUMN: usize = 140;
-const PATH: &str = "day3/input.txt";
+// const MAX_ROW: usize = 140;
+// const MAX_COLUMN: usize = 140;
+// const PATH: &str = "day3/input.txt";
 
 
 pub fn exec_day3() -> Result<(), Error> {
     println!("Hello world day 2");
-
 
     fn comprovar_veins(matrix: &[[char; MAX_ROW]; MAX_COLUMN], fila: usize, ini: usize, fi: usize) -> bool {
         let mut comprovar: bool = false;
@@ -77,7 +76,7 @@ pub fn exec_day3() -> Result<(), Error> {
         row +=1;
     }
 
-    println!("{:?}", matriu);
+    // println!("{:?}", matriu);
 
     let mut numero: String = "".to_string();
 
@@ -104,7 +103,7 @@ pub fn exec_day3() -> Result<(), Error> {
                 if trobat_numero {
                     
                     if comprovar_veins(&matriu, i, pos_ini, pos_fin) {
-                        println!("trobat {:?} {:?} {:?}-{:?}", numero, i, pos_ini, pos_fin);
+                        // println!("trobat {:?} {:?} {:?}-{:?}", numero, i, pos_ini, pos_fin);
                         suma += numero.parse::<u32>().unwrap();
                     }
                     trobat_numero = false;
@@ -114,7 +113,7 @@ pub fn exec_day3() -> Result<(), Error> {
         }
         if trobat_numero {
             if comprovar_veins(&matriu, i, pos_ini, pos_fin) {
-                println!("trobat {:?} {:?} {:?}-{:?}", numero, i, pos_ini, pos_fin);
+                // println!("trobat {:?} {:?} {:?}-{:?}", numero, i, pos_ini, pos_fin);
                 suma += numero.parse::<u32>().unwrap();
             }
             trobat_numero = false;
@@ -123,7 +122,20 @@ pub fn exec_day3() -> Result<(), Error> {
         
     }
 
-    println!("Suma {:?} ", suma);
+    println!("Suma part 1 {:?} ", suma);
+
+    for i in 0..MAX_ROW {
+        for j in 0..MAX_COLUMN {
+            if matriu[i][j] == '*' {
+                println!("trobat {:?}-{:?}", i, j);
+            }
+        }
+        
+    }
+
+
+
+
  
     Ok(())
 }
