@@ -58,6 +58,10 @@ pub fn exec_day3() -> Result<(), Error> {
         }
         comprovar
     }
+
+    fn buscar_producte(matrix: &[[char; MAX_ROW]; MAX_COLUMN], fila: usize, columna: usize) -> usize {
+        10
+    }
     
     let input = File::open(PATH)?;
     let buffered = BufReader::new(input);
@@ -86,6 +90,9 @@ pub fn exec_day3() -> Result<(), Error> {
 
     let mut pos_ini: usize = 0;
     let mut pos_fin: usize = 0; 
+    
+    // let mut guardats: [(String, usize, usize, usize); 1000] = [("0".to_string(), 0, 0, 0); 1000];
+    let mut control: usize = 0;
 
     for i in 0..MAX_ROW {
         for j in 0..MAX_COLUMN {
@@ -105,6 +112,11 @@ pub fn exec_day3() -> Result<(), Error> {
                     if comprovar_veins(&matriu, i, pos_ini, pos_fin) {
                         // println!("trobat {:?} {:?} {:?}-{:?}", numero, i, pos_ini, pos_fin);
                         suma += numero.parse::<u32>().unwrap();
+
+                        let guardar: (String, usize, usize, usize) = (numero.to_string(), i, pos_ini, pos_fin);
+                        // guardats[control] = guardar;
+                        control += 1;
+                        println!("{:?}", guardar);
                     }
                     trobat_numero = false;
                     numero.clear();
@@ -133,9 +145,5 @@ pub fn exec_day3() -> Result<(), Error> {
         
     }
 
-
-
-
- 
     Ok(())
 }

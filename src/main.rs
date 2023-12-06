@@ -1,6 +1,7 @@
 mod day1;
 mod day2;
 mod day3;
+mod day4;
 
 use std::env;
 
@@ -22,6 +23,7 @@ fn main() {
         "day1" => say_day1(),
         "day2" => say_day2(),
         "day3" => say_day3(),
+        "day4" => say_day4(),
         _ => {
             println!("Unknown function: {}", function_name);
             println!("Available functions: say_hello, say_goodbye");
@@ -39,6 +41,10 @@ fn say_day2() {
 
 fn say_day3() {
     day3::exec_day3();
+}
+
+fn say_day4() {
+    day4::exec_day4();
 }
 
 fn say_goodbye() {
