@@ -11,9 +11,6 @@ pub fn exec_day1() -> Result<(), Error> {
     let buffered = BufReader::new(input);
 
     let re = Regex::new(r"[0-9]{1}").unwrap();
-    let hay = "aasd23ss111b227c";
-
-    let mat = re.find(hay).unwrap();
 
     let mut suma: i32 = 0;
 
@@ -22,21 +19,21 @@ pub fn exec_day1() -> Result<(), Error> {
 
         let cadena = line.unwrap(); 
         
-        let mut numeros: Vec<&str> = re.find_iter(&cadena).map(|m| m.as_str()).collect();
+        let numeros: Vec<&str> = re.find_iter(&cadena).map(|m| m.as_str()).collect();
         
         println!("{:?}", numeros);
 
 
-    // println!("Firt element {:?}: ", numeros.pop());
+        // println!("Firt element {:?}: ", numeros.pop());
 
-        let primer_caracter = numeros[0].parse::<i32>();
-        let ultim_caracter = numeros[numeros.len()-1].parse::<i32>();
+        
+        // debug: per comprovar si l'agafem bé
+        // let primer_caracter = numeros[0].parse::<i32>();
+        // let ultim_caracter = numeros[numeros.len()-1].parse::<i32>();
+        // println!("primer i ultim {:?} {:?}", primer_caracter, ultim_caracter);
 
-        let mut combi = [numeros[0],numeros[numeros.len()-1]].join("").parse::<i32>();
-
-//        println!("{:?}", primer_caracter);
- //       println!("{:?}", ultim_caracter);
-  //      println!("{:?}", combi);
+        let combi = [numeros[0],numeros[numeros.len()-1]].join("").parse::<i32>();
+        // println!("{:?}", combi);
 
         suma = &suma + &combi.unwrap();
     }
@@ -82,11 +79,11 @@ for line in buffered.lines() {
 
     // let cadena = line.unwrap(); 
     
-    let mut cadena_buscar: String = line.unwrap();
+    let cadena_buscar: String = line.unwrap();
 
     let mut numeros = Vec::new();
 
-    let cadena_nova: String;
+    // let cadena_nova: String;
     let mut inici = 0;
 
     loop {
@@ -141,7 +138,7 @@ for line in buffered.lines() {
     let primer_caracter = change_number(numeros[0]);
     let ultim_caracter = change_number(numeros[numeros.len()-1]);
 
-    let mut combi = [primer_caracter,ultim_caracter].join("").parse::<i32>();
+    let combi = [primer_caracter,ultim_caracter].join("").parse::<i32>();
 
     println!("{:?}", primer_caracter);
     println!("{:?}", ultim_caracter);

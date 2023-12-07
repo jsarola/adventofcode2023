@@ -20,7 +20,7 @@ pub fn exec_day2() -> Result<(), Error> {
 
     let mut suma_power: usize = 0;
 
-    let mut no_es_pot: bool = false;
+    let mut no_es_pot: bool;
 
     let mut power: usize;
 

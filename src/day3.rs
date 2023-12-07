@@ -1,7 +1,5 @@
 use std::fs::File;
 use std::io::{BufReader, BufRead, Error};
-use regex::Regex;
-
 
 const MAX_ROW: usize = 10;
 const MAX_COLUMN: usize = 10;
@@ -18,8 +16,8 @@ pub fn exec_day3() -> Result<(), Error> {
     fn comprovar_veins(matrix: &[[char; MAX_ROW]; MAX_COLUMN], fila: usize, ini: usize, fi: usize) -> bool {
         let mut comprovar: bool = false;
 
-        let mut start: usize;
-        let mut end: usize;
+        let start: usize;
+        let end: usize;
 
         if ini > 1 { start = ini - 1; } else { start = 0; }
         if fi < MAX_COLUMN - 1 { end = fi + 1; } else { end = MAX_COLUMN - 1; }
@@ -59,8 +57,12 @@ pub fn exec_day3() -> Result<(), Error> {
         comprovar
     }
 
-    fn buscar_producte(matrix: &[[char; MAX_ROW]; MAX_COLUMN], fila: usize, columna: usize) -> usize {
-        10
+    fn buscar_producte(lamatriu: &[[char; MAX_ROW]; MAX_COLUMN], fila: usize, columna: usize) -> usize {
+        if lamatriu[fila][columna].is_numeric() {
+            lamatriu[fila][columna].to_string().parse::<usize>().unwrap()
+        } else {
+            0
+        }
     }
     
     let input = File::open(PATH)?;
@@ -92,7 +94,7 @@ pub fn exec_day3() -> Result<(), Error> {
     let mut pos_fin: usize = 0; 
     
     // let mut guardats: [(String, usize, usize, usize); 1000] = [("0".to_string(), 0, 0, 0); 1000];
-    let mut control: usize = 0;
+    // let mut control: usize = 0;
 
     for i in 0..MAX_ROW {
         for j in 0..MAX_COLUMN {
@@ -115,7 +117,7 @@ pub fn exec_day3() -> Result<(), Error> {
 
                         let guardar: (String, usize, usize, usize) = (numero.to_string(), i, pos_ini, pos_fin);
                         // guardats[control] = guardar;
-                        control += 1;
+                        // control += 1;
                         println!("{:?}", guardar);
                     }
                     trobat_numero = false;
@@ -140,6 +142,7 @@ pub fn exec_day3() -> Result<(), Error> {
         for j in 0..MAX_COLUMN {
             if matriu[i][j] == '*' {
                 println!("trobat {:?}-{:?}", i, j);
+                let _tmp = buscar_producte(&matriu, i, j);
             }
         }
         
